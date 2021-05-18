@@ -1,3 +1,4 @@
-theme                     : jekyll-theme-minimal
-title                     : "JIANG M Y"
+theme: jekyll-theme-minimal
+
+name                      : "JIANG M Y"
 description               : "JIANG's personal website"
