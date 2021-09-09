@@ -5,5 +5,4 @@ Welcome! This is the personal page of JIANG M Y.
 
 ## Useful links
 - [myPolyU](https://my.polyu.edu.hk/)
-- [Github](https://github.com/jiangmy97)
 - [IEEE Xplore Library- PolyU access](https://ieeexplore-ieee-org.ezproxy.lb.polyu.edu.hk/Xplore/home.jsp)
