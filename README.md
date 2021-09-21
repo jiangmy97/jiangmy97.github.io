@@ -1,6 +1,6 @@
 Welcome! This is the personal page of JIANG M Y.
 
-<p>Date/Time: <span id="datetime"></span></p>
+<p>Current local date/time: <span id="datetime"></span></p>
 
 <script>
 var dt = new Date();
