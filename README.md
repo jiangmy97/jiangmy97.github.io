@@ -7,10 +7,8 @@ document.getElementById("datetime").innerHTML = dt.toLocaleString();
 </script>
 
 ## Contact
-Items | Contents
------ | --------
-Email | ming-yuan.jiang@connect.polyu.hk
-Address | EF102, 11 Yuk Choi Road, Hung Hom, KLN, Hong Kong, China, 999077.
+- Email:    ming-yuan.jiang@connect.polyu.hk
+- Address:  EF102, 11 Yuk Choi Road, Hung Hom, KLN, Hong Kong, China, 999077.
 
 ## Useful links
 - [myPolyU](https://my.polyu.edu.hk/)
