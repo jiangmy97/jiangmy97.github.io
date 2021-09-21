@@ -1,4 +1,4 @@
-Welcome! This is the personal page of JIANG M Y. ([Private Entry](https://github.com/jiangmy97/PrivateItems))
+**Welcome! This is the personal page of JIANG M Y. ([Private Entry](https://github.com/jiangmy97/PrivateItems))**
 <p>Current local date/time: <span id="datetime"></span></p>
 
 <script>
