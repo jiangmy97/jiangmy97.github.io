@@ -1,11 +1,6 @@
 Welcome! This is the personal page of JIANG M Y.
 
-<p>Date/Time: <span id="datetime"></span></p>
-
-<script>
-var dt = new Date();
-document.getElementById("datetime").innerHTML = (("0"+(dt.getMonth()+1)).slice(-2)) +"/"+ (("0"+dt.getDate()).slice(-2)) +"/"+ (dt.getFullYear()) +" "+ (("0"+dt.getHours()+1).slice(-2)) +":"+ (("0"+dt.getMinutes()+1).slice(-2));
-</script>
+<p>Current Date and Time is <span id='date-time'></span>.</p>
 
 ## Contact
 - Email: nmyjiang@foxmail.com
