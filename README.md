@@ -7,7 +7,8 @@
 
 ## Contact
 - Email:    ming-yuan.jiang@connect.polyu.hk
-- Address:  P006, 11 Yuk Choi Road, Hung Hom, KLN, Hong Kong, China, 999077.
+- Address:  P006, 11 Yuk Choi Road, Hung Hom, Kowloon, Hong Kong, China, 999077.
+
 
 ## Useful links
 
