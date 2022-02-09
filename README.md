@@ -1,4 +1,4 @@
-**Greetings! This is the personal page of JIANG M Y. (*[Private Entry](https://github.com/jiangmy97/PrivateItems)*)**
+**Greetings! This is the personal page of JIANG Mingyuan. (*[Private Entry](https://github.com/jiangmy97/PrivateItems)*)**
 
 ## About me
 <[My Curriculum Vitae](https://github.com/jiangmy97/jiangmy97.github.io/blob/main/docs/CV-JMY.pdf)>
