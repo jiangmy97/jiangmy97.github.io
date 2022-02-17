@@ -10,6 +10,10 @@
 - Address:  P006, 11 Yuk Choi Road, Hung Hom, Kowloon, Hong Kong, China, 999077.
 - Telephone:  +852 3400 3335
 
+| Items | Contents |
+| --- | --- |
+| E-mail | ming-yuan.jiang@connect.polyu.hk |
+| Address | P006, 11 Yuk Choi Road, Hung Hom, Kowloon, Hong Kong, China, 999077. |
 
 ## Useful links
 
