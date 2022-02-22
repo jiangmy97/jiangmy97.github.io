@@ -6,9 +6,28 @@
 <[ORCID](https://orcid.org/0000-0001-7805-9772)>
 
 ## Contact
-- Email:    ming-yuan.jiang@connect.polyu.hk
-- Address:  P006, 11 Yuk Choi Road, The HK Polytechnic University, Hung Hom, Kowloon, Hong Kong, China, 999077.
-- Telephone:  +852 3400 3335
+
+<table style="font-size: 16px; width: 100%; border: none;">
+  <colgroup>
+    <col style="width: 6px; border: none;">
+    <col>
+  </colgroup>
+    
+  <tr valign="top" style="border: none;">
+    <td style="border: none;"> Office <br> &nbsp; <br> &nbsp; <br> &nbsp; </td>
+    <td style="border: none;"> P006, Anita Chan Lai Ling Building,<br>The Hong Kong Polytechnic University,<br>11 Yuk Choi Road, Hung Hom, Kowloon,<br>Hong Kong, China, 999077.</td>
+  </tr>
+  <tr valign="top" style=" border: none;">
+    <td style="border: none;"> Email </td>
+    <td style="border: none;"> ming-yuan.jiang@connect.polyu.hk </td>
+  </tr>
+  
+  <tr valign="top" style=" border: none;">
+    <td style="border: none;"> Phone </td>
+    <td style="border: none;"> +852 3400 3335 </td>
+  </tr>
+  
+</table>
 
 ## Useful links
 
