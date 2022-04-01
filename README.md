@@ -31,8 +31,8 @@
   </tr>
   
   <tr valign="top" style=" border: none;">
-    <td style="border: none;"> Office hours: </td>
-    <td style="border: none;"> <a href="https://sites.google.com/view/jiangmy/home/agenda">Click to see the agenda</a> </td>
+    <td style="border: none;"> Agenda: </td>
+    <td style="border: none;"> <a href="https://sites.google.com/view/jiangmy/home/agenda">Click here</a> </td>
   </tr>
   
 </table>
