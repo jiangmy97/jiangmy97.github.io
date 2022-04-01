@@ -18,7 +18,7 @@
     
   <tr valign="top" style="border: none;">
     <td style="border: none;"> Office: <br> &nbsp; <br> &nbsp; <br> &nbsp; </td>
-    <td style="border: none;"> P006, G/F Anita Chan Lai Ling Building,<br>The Hong Kong Polytechnic University,<br>11 Yuk Choi Road, Hung Hom, Kowloon,<br>Hong Kong, China, 999077.</td>
+    <td style="border: none;"> P006, G/F Anita Chan Lai Ling Building,<br>The Hong Kong Polytechnic University,<br>11 Yuk Choi Road, Hung Hom, Kowloon,<br>Hong Kong, China, 999077.<br><a href="https://sites.google.com/view/jiangmy/home/how-to-get-here">(How to get here)</a></td>
   </tr>
   <tr valign="top" style=" border: none;">
     <td style="border: none;"> Email: </td>
@@ -28,6 +28,11 @@
   <tr valign="top" style=" border: none;">
     <td style="border: none;"> Phone: </td>
     <td style="border: none;"> +852 3400 3335 </td>
+  </tr>
+  
+  <tr valign="top" style=" border: none;">
+    <td style="border: none;"> Office hours: </td>
+    <td style="border: none;"> <a href="https://sites.google.com/view/jiangmy/home/agenda">Click to see the agenda</a> </td>
   </tr>
   
 </table>
