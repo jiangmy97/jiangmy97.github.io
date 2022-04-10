@@ -37,7 +37,7 @@
   </tr>
   
 </table>
-* To save your time, please check the agenda before contacting me, thank you.
+**To save your time, please check the agenda before contacting me, thank you.**
 
 ## Useful links
 
