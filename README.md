@@ -23,7 +23,7 @@
   </tr>
   <tr valign="top" style=" border: none;">
     <td style="border: none;"> Email: </td>
-    <td style="border: none;"> <a href="mailto:ming-yuan.jiang@connect.polyu.hk">Click here</a> </td>
+    <td style="border: none;"> ming-yuan DOT jiang AT connect DOT polyu DOT hk </td>
   </tr>
   
   <tr valign="top" style=" border: none;">
@@ -37,6 +37,7 @@
   </tr>
   
 </table>
+
 *To save your time, please check the agenda before contacting me, thank you.*
 
 ## Useful links
