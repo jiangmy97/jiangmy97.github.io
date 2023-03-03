@@ -23,7 +23,7 @@
   </tr>
   <tr valign="top" style=" border: none;">
     <td style="border: none;"> Email: </td>
-    <td style="border: none;"> ming-yuan.jiang@connect.polyu.hk </td>
+    <td style="border: none;"> <a href="mailto:ming-yuan.jiang@connect.polyu.hk">Click here</a> </td>
   </tr>
   
   <tr valign="top" style=" border: none;">
