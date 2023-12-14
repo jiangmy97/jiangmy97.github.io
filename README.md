@@ -1,11 +1,11 @@
 **Greetings! This is the personal page of JIANG Mingyuan. (*[Private Entry](https://github.com/jiangmy97/PrivateItems)*)**
 
 ## About me
-<[CV](https://jiangmy97.github.io/docs/CV-JMY.pdf)>
-<[Google Scholar](https://scholar.google.com.hk/citations?hl=en&user=o6vNp3AAAAAJ)>
-<[ORCID](https://orcid.org/0000-0001-7805-9772)>
-<[ResearchGate](https://www.researchgate.net/profile/Mingyuan-Jiang-3)>
-<[Google page](https://sites.google.com/view/jiangmy)>
+[CV](https://jiangmy97.github.io/docs/CV-JMY.pdf) |
+[Google Scholar](https://scholar.google.com.hk/citations?hl=en&user=o6vNp3AAAAAJ) |
+[ORCID](https://orcid.org/0000-0001-7805-9772) |
+[ResearchGate](https://www.researchgate.net/profile/Mingyuan-Jiang-3) |
+[Google page](https://sites.google.com/view/jiangmy) 
 
 **JIANG Mingyuan** received the B.Eng. degree in electrical engineering and automation from Shanghai Maritime University (SMU), Shanghai, China, in 2020, and the M.Sc. degree in electrical engineering from The Hong Kong Polytechnic University (HK PolyU), Hong Kong, China, in 2021, where he is currently pursuing the Ph.D. degree in electrical engineering. His main research interests include design, optimization, and control of electric machine.
 
