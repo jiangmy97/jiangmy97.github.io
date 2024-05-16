@@ -3,7 +3,7 @@
 
 **Office hours:** 09:30 - 11:00, 13:00 - 17:00, Mon - Fri (Except public holidays, special occasions, and events on the agenda)
 
-<span style="color:red"> **Please check the agenda before contacting me to save time. Thank you!** </span>
+$${\color{red}Please \space check \space the \space agenda \space before \space contacting \space me. \space Thank \space you \space!}$$
 
 
 [Back](jiangmy97.github.io)
