@@ -33,7 +33,7 @@
   
   <tr valign="top" style=" border: none;">
     <td style="border: none;"> Agenda: </td>
-    <td style="border: none;"> <a href="https://sites.google.com/view/jiangmy/home/agenda">Click here</a> </td>
+    <td style="border: none;"> <a href="https://jiangmy97.github.io/Calender">Click here</a> </td>
   </tr>
   
 </table>
