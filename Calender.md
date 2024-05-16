@@ -3,6 +3,7 @@
 
 **Office hours:** 09:30 - 11:00, 13:00 - 17:00, Mon - Fri (Except public holidays, special occasions, and events on the agenda)
 
-:warning: **To save your time, please check the agenda before contacting me. Thank you!** 
+<span style="color:red"> **Please check the agenda before contacting me to save time. Thank you!** </span>
+
 
 [Back](jiangmy97.github.io)
