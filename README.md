@@ -1,7 +1,7 @@
 **Greetings! This is the personal page of JIANG Mingyuan. (*[Private Entry](https://github.com/jiangmy97/PrivateItems)*)**
 
 ## About me
-[CV](https://jiangmy97.github.io/docs/CV-JMY.pdf) |
+[CV](https://jiangmy97.github.io/docs/CV_JMY_240531_v2.pdf) |
 [Google Scholar](https://scholar.google.com.hk/citations?hl=en&user=o6vNp3AAAAAJ) |
 [ORCID](https://orcid.org/0000-0001-7805-9772) |
 [ResearchGate](https://www.researchgate.net/profile/Mingyuan-Jiang-3) |
