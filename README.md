@@ -4,8 +4,7 @@
 [CV](https://jiangmy97.github.io/docs/CV_JMY_240531_v2.pdf) |
 [Google Scholar](https://scholar.google.com.hk/citations?hl=en&user=o6vNp3AAAAAJ) |
 [ORCID](https://orcid.org/0000-0001-7805-9772) |
-[ResearchGate](https://www.researchgate.net/profile/Mingyuan-Jiang-3) |
-[Google page](https://sites.google.com/view/jiangmy) 
+[ResearchGate](https://www.researchgate.net/profile/Mingyuan-Jiang-3) 
 
 **JIANG Mingyuan** holds the B.Eng. degree in electrical engineering and automation from Shanghai Maritime University (SMU), Shanghai, China, conferred in 2020. Subsequently, he obtained the M.Sc. and Ph.D. degrees in electrical engineering from The Hong Kong Polytechnic University (HK PolyU), Hong Kong, China, in 2021 and 2024, respectively. His primary research focuses on the design, optimization, and control of electric machines.
 
@@ -19,7 +18,7 @@
     
   <tr valign="top" style="border: none;">
     <td style="border: none;"> Office: <br> &nbsp; <br> &nbsp; <br> &nbsp; </td>
-    <td style="border: none;"> P006, G/F Anita Chan Lai Ling Building,<br>The Hong Kong Polytechnic University,<br>11 Yuk Choi Road, Hung Hom, Kowloon,<br>Hong Kong, China, 999077.<br><a href="https://sites.google.com/view/jiangmy/home/how-to-get-here">(How to get here)</a></td>
+    <td style="border: none;"> P006, G/F Anita Chan Lai Ling Building,<br>The Hong Kong Polytechnic University,<br>11 Yuk Choi Road, Hung Hom, Kowloon,<br>Hong Kong, China, 999077.<br><a href="https://sites.google.com/view/jiangmy/home/how-to-get-to-p006">(How to get here)</a></td>
   </tr>
   <tr valign="top" style=" border: none;">
     <td style="border: none;"> Email: </td>
