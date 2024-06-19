@@ -18,7 +18,7 @@
     
   <tr valign="top" style="border: none;">
     <td style="border: none;"> Office: <br> &nbsp; <br> &nbsp; <br> &nbsp; </td>
-    <td style="border: none;"> P006, G/F Anita Chan Lai Ling Building,<br>The Hong Kong Polytechnic University,<br>11 Yuk Choi Road, Hung Hom, Kowloon,<br>Hong Kong, China, 999077.<br><a href="https://sites.google.com/view/jiangmy/home/how-to-get-to-p006">(How to get here)</a></td>
+    <td style="border: none;"> CF606, 6/F Tang Ping Yuan Building,<br>The Hong Kong Polytechnic University,<br>11 Yuk Choi Road, Hung Hom, Kowloon,<br>Hong Kong, China, 999077.</td>
   </tr>
   <tr valign="top" style=" border: none;">
     <td style="border: none;"> Email: </td>
@@ -27,7 +27,7 @@
   
   <tr valign="top" style=" border: none;">
     <td style="border: none;"> Phone: </td>
-    <td style="border: none;"> +852 3400 3335 </td>
+    <td style="border: none;"> +852 2766 6174 </td>
   </tr>
   
   <tr valign="top" style=" border: none;">
@@ -43,6 +43,7 @@
 
 - [myPolyU](https://my.polyu.edu.hk/)
 - [IEEE Xplore Library- PolyU access](https://ieeexplore-ieee-org.ezproxy.lb.polyu.edu.hk/Xplore/home.jsp)
+- [How to get to EMLAB (P006)](https://sites.google.com/view/jiangmy/home/how-to-get-to-p006)
 
 
 
