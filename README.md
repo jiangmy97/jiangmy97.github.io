@@ -8,7 +8,7 @@
 [ResearchGate](https://www.researchgate.net/profile/Mingyuan-Jiang-3) 
 
 
-**JIANG Mingyuan** holds the B.Eng. degree in electrical engineering and automation from Shanghai Maritime University (SMU), Shanghai, China, conferred in 2020. Subsequently, he obtained the M.Sc. and Ph.D. degrees in electrical engineering from The Hong Kong Polytechnic University (HK PolyU), Hong Kong, China, in 2021 and 2024, respectively. He is currently a Research Assistant Professor in the Department of Electrical and Electronic Engineering, The Hong Kong Polytechnic University.  His primary research focuses on the design, optimization, and control of electric machines.
+**JIANG Mingyuan** receives the B.Eng. degree in electrical engineering and automation from Shanghai Maritime University, Shanghai, China, in 2020. Subsequently, he obtained the M.Sc. and Ph.D. degrees in electrical engineering from The Hong Kong Polytechnic University, Hong Kong, China, in 2021 and 2024, respectively. He is currently a Research Assistant Professor in the Department of Electrical and Electronic Engineering, The Hong Kong Polytechnic University. His primary research focuses on the design, optimization, and control of electric machines, wireless power transfer, autonoumous driving, and renewable energy systems.
 
 ## Contact
 
