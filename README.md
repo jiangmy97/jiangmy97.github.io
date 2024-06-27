@@ -1,5 +1,8 @@
 **Greetings! This is the personal page of JIANG Mingyuan. (*[Private Entry](https://github.com/jiangmy97/PrivateItems)*)**
 
+## Openings
+Dr JIANG is looking for **Research Postgraduates (RPGs), Research Assistants, and Postdoctoral Fellows**. Please see [this page](https://jiangmy97.github.io/opening) for detailed information. If you are interested, please send your CV to [m.y.jiang [AT] polyu.edu.hk](mailto:m.y.jiang@polyu.edu.hk).
+
 ## About me
 [CV](https://jiangmy97.github.io/docs/CV_JMY_240531_v2.pdf) |
 [PolyU Page](https://www.polyu.edu.hk/eee/people/academic-staff-and-teaching-staff/dr-jian-mingyuan/) |
@@ -8,7 +11,7 @@
 [ResearchGate](https://www.researchgate.net/profile/Mingyuan-Jiang-3) 
 
 
-**JIANG Mingyuan** receives the B.Eng. degree in electrical engineering and automation from Shanghai Maritime University, Shanghai, China, in 2020. Subsequently, he obtained the M.Sc. and Ph.D. degrees in electrical engineering from The Hong Kong Polytechnic University, Hong Kong, China, in 2021 and 2024, respectively. He is currently a Research Assistant Professor in the Department of Electrical and Electronic Engineering, The Hong Kong Polytechnic University. His primary research focuses on the design, optimization, and control of electric machines, wireless power transfer, autonoumous driving, and renewable energy systems.
+**JIANG Mingyuan** receives the B.Eng. degree in electrical engineering and automation from Shanghai Maritime University, Shanghai, China, in 2020. Subsequently, he obtained the M.Sc. and Ph.D. degrees in electrical engineering from The Hong Kong Polytechnic University, Hong Kong, China, in 2021 and 2024, respectively. He is currently a Research Assistant Professor in the Department of Electrical and Electronic Engineering, The Hong Kong Polytechnic University. His primary research focuses on the design, optimization, and control of electric machines, electric vehicles, and power generation.
 
 ## Contact
 
@@ -20,7 +23,7 @@
     
   <tr valign="top" style="border: none;">
     <td style="border: none;"> Office: <br> &nbsp; <br> &nbsp; <br> &nbsp; </td>
-    <td style="border: none;"> CF606, 6/F Tang Ping Yuan Building,<br>The Hong Kong Polytechnic University,<br>11 Yuk Choi Road, Hung Hom, Kowloon,<br>Hong Kong, China, 999077.</td>
+    <td style="border: none;"> CF606, 6/F Tang Ping Yuan Building,<br>Department of Electrical and Electronic Engineering,<br>The Hong Kong Polytechnic University,<br>11 Yuk Choi Road, Hung Hom, Kowloon,<br>Hong Kong, China, 999077.</td>
   </tr>
   <tr valign="top" style=" border: none;">
     <td style="border: none;"> Email: </td>
