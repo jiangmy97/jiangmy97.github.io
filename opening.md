@@ -1,5 +1,5 @@
 # Openings
-As a member of the [Research Center for Electric Vehicles (RCEV)](https://www.polyu.edu.hk/rcev/), Dr. JIANG Mingyuan is looking for **Research Postgraduates (RPGs), Research Assistants, and Postdoctoral Fellows** in the following topics:
+As a member of the [PolyU Research Center for Electric Vehicles (RCEV)](https://www.polyu.edu.hk/rcev/), Dr. JIANG Mingyuan is looking for **Research Postgraduates (RPGs), Research Assistants, and Postdoctoral Fellows** in the following topics:
 - Electric Machine
     - Advanced machine design (e.g., flux-modulated machine, high-speed machine, multiport machine)
     - Machine control
