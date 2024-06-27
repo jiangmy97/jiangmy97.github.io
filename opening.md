@@ -23,6 +23,9 @@ As a member of the [PolyU Research Center for Electric Vehicles (RCEV)](https://
   - Publication record
   - Hardware test and design experience
 
+*For fellowship and scholarship, please see [this page](https://www.polyu.edu.hk/gs/prospective-students/fellowship-scholarship-schemes/) for detailed requirements.*
+
 ## Useful information
 - [PolyU RPG information](https://www.polyu.edu.hk/study/pg/research-postgraduate)
 - [PolyU eAdmission (Apply System)](https://www38.polyu.edu.hk/eAdmission/index.do)
+- [Fellowship & Scholarship Schemes](https://www.polyu.edu.hk/gs/prospective-students/fellowship-scholarship-schemes/)
