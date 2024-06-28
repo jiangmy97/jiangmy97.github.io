@@ -1,7 +1,7 @@
 **Greetings! This is the personal page of JIANG Mingyuan. (*[Private Entry](https://github.com/jiangmy97/PrivateItems)*)**
 
 ## Openings
-Dr JIANG is looking for **Research Postgraduates (RPGs), Research Assistants, and Postdoctoral Fellows**. Please see [this page](https://jiangmy97.github.io/opening) for detailed information. If you are interested, please send your CV to [m.y.jiang [AT] polyu.edu.hk](mailto:m.y.jiang@polyu.edu.hk).
+Dr JIANG is looking for **Research Postgraduates (RPGs), Research Assistants, and Postdoctoral Fellows**. Please visit [this page](https://jiangmy97.github.io/opening) for detailed information. If you are interested, please send your CV to [m.y.jiang [AT] polyu.edu.hk](mailto:m.y.jiang@polyu.edu.hk).
 
 ## About me
 [CV](https://jiangmy97.github.io/docs/CV_JMY_240531_v2.pdf) |
