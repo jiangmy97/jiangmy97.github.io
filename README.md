@@ -1,7 +1,7 @@
-**Greetings! This is the personal page of JIANG Mingyuan. (*[Private Entry](https://github.com/jiangmy97/PrivateItems)*)**
+**Greetings! This is the personal page of JIANG Mingyuan.**
 
-## Openings
-Dr JIANG is looking for **Research Postgraduates (RPGs), Research Assistants, and Postdoctoral Fellows**. Please visit [this page](https://jiangmy97.github.io/opening) for detailed information. If you are interested, please send your CV to [m.y.jiang [AT] polyu.edu.hk](mailto:m.y.jiang@polyu.edu.hk).
+<!-- ## Openings
+Dr JIANG is looking for **Research Postgraduates (RPGs), Research Assistants, and Postdoctoral Fellows**. Please visit [this page](https://jiangmy97.github.io/opening) for detailed information. If you are interested, please send your CV to [m.y.jiang [AT] polyu.edu.hk](mailto:m.y.jiang@polyu.edu.hk). -->
 
 ## About me
 [CV](https://jiangmy97.github.io/docs/CV_JMY_240531_v2.pdf) |
@@ -49,6 +49,7 @@ Dr JIANG is looking for **Research Postgraduates (RPGs), Research Assistants, an
 - [myPolyU](https://my.polyu.edu.hk/)
 - [IEEE Xplore Library- PolyU access](https://ieeexplore-ieee-org.ezproxy.lb.polyu.edu.hk/Xplore/home.jsp)
 - [How to get to EMLAB (P006)](https://sites.google.com/view/jiangmy/home/how-to-get-to-p006)
+- *[Private Entry](https://github.com/jiangmy97/PrivateItems)*
 
 
 
