@@ -1,5 +1,5 @@
 # Openings
-As a member of the [PolyU Research Center for Electric Vehicles (RCEV)](https://www.polyu.edu.hk/rcev/), Dr. JIANG Mingyuan is looking for **Research Postgraduates (RPGs), Research Assistants, and Postdoctoral Fellows** in the following topics:
+As a member of the [PolyU Research Center for Electric Vehicles (PolyU RCEV)](https://www.polyu.edu.hk/rcev/), Dr. JIANG Mingyuan is looking for **Research Postgraduates (RPGs), Research Assistants, and Postdoctoral Fellows** in the following topics:
 - Electric Machine
     - Advanced machine design (e.g., flux-modulated machine, high-speed machine, multiport machine)
     - Machine control
@@ -14,7 +14,7 @@ As a member of the [PolyU Research Center for Electric Vehicles (RCEV)](https://
 - The applicant must meet **ALL** of the following requirements:
 
   - [Basic admission requirements for PolyU RPGs](https://www.polyu.edu.hk/study/pg/research-postgraduate/admission-requirements-rpg):
-    - Degree requirements: See the link above
+    - Degree requirements: Visit the link above
     - English requirements: IELTS >= 6.5 or TOFEL>=80
   - Honesty, certain stress tolerance, self-disciplinary, positive in research
 
@@ -23,9 +23,10 @@ As a member of the [PolyU Research Center for Electric Vehicles (RCEV)](https://
   - Publication record
   - Hardware test and design experience
 
-*For fellowship and scholarship, please see [this page](https://www.polyu.edu.hk/gs/prospective-students/fellowship-scholarship-schemes/) for detailed requirements.*
+## Fellowship and Scholarship
+Please visit [this page](https://www.polyu.edu.hk/gs/prospective-students/fellowship-scholarship-schemes/) for detailed requirements.
 
-## Useful information
+## Useful Information
 - [PolyU RPG information](https://www.polyu.edu.hk/study/pg/research-postgraduate)
 - [PolyU eAdmission (Apply System)](https://www38.polyu.edu.hk/eAdmission/index.do)
 - [Fellowship & Scholarship Schemes](https://www.polyu.edu.hk/gs/prospective-students/fellowship-scholarship-schemes/)
