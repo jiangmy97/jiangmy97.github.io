@@ -8,7 +8,7 @@ As a member of the [PolyU Research Center for Electric Vehicles (PolyU RCEV)](ht
     - SLAM
     - Sensor fusion
 
-***If you are interested, please send your CV to [m.y.jiang [AT] polyu.edu.hk](mailto:m.y.jiang@polyu.edu.hk).***
+***If you are interested or have interesting ideas, please send your CV to [m.y.jiang [AT] polyu.edu.hk](mailto:m.y.jiang@polyu.edu.hk). Thanks!***
 
 ## Requirements
 - The applicant must meet **ALL** of the following requirements:
