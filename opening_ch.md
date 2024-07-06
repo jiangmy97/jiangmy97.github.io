@@ -5,7 +5,7 @@
 [香港理工大学电动车研究中心（RCEV）](https://www.polyu.edu.hk/rcev/)是一个新成立的校级研究中心，于2024年2月26日成立。研究中心的主任是 **[陈清泉院士](https://www.polyu.edu.hk/eee/people/distinguished-honorary-emeritus-adjunct-and-visiting-staff/prof-chan-ching-chuen/)**，他是**香港第一位中国工程院院士，也是公认的"亚洲电动车之父"**。联合主任是 **[邹国棠教授](https://www.polyu.edu.hk/eee/people/academic-staff-and-teaching-staff/prof-chau-kwok-tong/)**。RCEV旨在解决现代电动汽车的技术挑战，并提供重大技术解决方案。通过将电动车技术与能源、信息、人文和政策相结合，中心遵循人机协同、信息化、物理融合的理念。中心的主要目标之一是将研发技术转化到产业界，特别是在大湾区，以利用电动车面临的丰富机遇。这项技术转化也将在支持实现香港等地区的碳中及国家绿色生态目标中发挥关键作用。
 
 ## 奖学金
-香港理工大学目前为研究生提供以下奖学金:
+目前可申请香港理工大学以下奖学金:
 - 香港研究资助局博士生研究计划(HKPFS): 每月28,100港元
 - 香港理工大学校长博士生研究计划(PPPFS): 每月27,790港元 
 - 香港理工大学研究生奖学金(PRPgS): 每月18,840港元
@@ -13,7 +13,7 @@
 详细信息请访问[此页面](https://www.polyu.edu.hk/gs/prospective-students/fellowship-scholarship-schemes/)。
 
 ## 导师介绍
-**江明远博士**，博士生导师，现任香港理工大学电气及电子工程学系助理教授（研究）。江博于2020年获得上海海事大学电气工程与自动化学士学位，并于2021年和2024年分别获得香港理工大学电气工程硕士、博士学位（博士导师: **[牛双霞教授](https://www.polyu.edu.hk/eee/people/academic-staff-and-teaching-staff/dr-niu-shuang-xia/)**，RCEV副主任）。他的主要研究方向包括电机设计、优化和控制、电动汽车以及发电技术。
+江明远，博士生导师，现任香港理工大学电气及电子工程学系助理教授（研究），于2021年和2024年分别获得香港理工大学电气工程硕士、博士学位（博士导师: **[牛双霞教授](https://www.polyu.edu.hk/eee/people/academic-staff-and-teaching-staff/dr-niu-shuang-xia/)**，RCEV副主任）。主要研究方向包括电机设计、优化和控制、电动汽车以及发电技术。近年来在IEEE Transactions on Industrial Electronics、IEEE Transactions on Transportation Electrification、IEEE Journal of Emerging Selected Topics in Power Electronics等国际高水平期刊上发表论文十余篇。
 
 [个人主页](https://jiangmy97.github.io/) |
 [CV](https://jiangmy97.github.io/docs/CV_JMY_240531_v2.pdf) |
