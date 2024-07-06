@@ -1,5 +1,5 @@
-# Openings
-As a member of the [PolyU Research Centre for Electric Vehicles (RCEV)](https://www.polyu.edu.hk/rcev/), **Dr JIANG Mingyuan** is looking for **Research Postgraduates (RPGs), Research Assistants, and Postdoctoral Fellows**. If you are interested or have interesting ideas, please send your CV to [m.y.jiang [AT] polyu.edu.hk](mailto:m.y.jiang@polyu.edu.hk). Thanks!
+# JIANG Mingyuan's group is looking for PhD students and Research Assistants (RAs)
+As a member of the [PolyU Research Centre for Electric Vehicles (RCEV)](https://www.polyu.edu.hk/rcev/), **Dr JIANG Mingyuan** is looking for **PhD Students and Research Assistants**. If you are interested or have interesting ideas, please send your CV to [m.y.jiang [AT] polyu.edu.hk](mailto:m.y.jiang@polyu.edu.hk). Thanks!
 
 ## About PolyU RCEV
 [PolyU Research Centre for Electric Vehicles (RCEV)](https://www.polyu.edu.hk/rcev/) is a new university-level research centre which was launched on 26 Feb 2024. The Director of the Research Centre is **[Prof. C. C. Chan](https://www.polyu.edu.hk/eee/people/distinguished-honorary-emeritus-adjunct-and-visiting-staff/prof-chan-ching-chuen/)**, a Distinguished Chair Professor in the Department of Electrical and Electronic Engineering (EEE), who is **the first Academician of CAE (中国工程院院士) in Hong Kong**, and also a renowned expert in the field and widely recognised as the “Father of Asian electric vehicles”. The Co-Director is **[Prof. K. T. Chau](https://www.polyu.edu.hk/eee/people/academic-staff-and-teaching-staff/prof-chau-kwok-tong/)**, a Chair Professor in EEE. RCEV aims to address the technical challenges of modern electric vehicles (EVs) and provide significant technological solutions. By integrating EV technology with energy, information, humanity, and policy, the Centre follows the philosophy of integrating the human, cyber, and physical worlds. One of the Centre’s primary goals is to transfer the developed technologies to industries, particularly within the Greater Bay Area, enabling them to capitalise on the abundant opportunities presented by EVs globally. This technology transfer will also play a vital role in supporting the realisation of carbon neutrality in various countries and cities, including Hong Kong.
@@ -48,7 +48,7 @@ Please visit [this page](https://www.polyu.edu.hk/gs/prospective-students/fellow
   - Hardware test and design experience
 
 ## Useful Information
-- [PolyU RPG information](https://www.polyu.edu.hk/study/pg/research-postgraduate)
+- [PolyU PhD information](https://www.polyu.edu.hk/study/pg/research-postgraduate)
 - [PolyU eAdmission (Apply System)](https://www38.polyu.edu.hk/eAdmission/index.do)
 - [Fellowship & Scholarship Schemes](https://www.polyu.edu.hk/gs/prospective-students/fellowship-scholarship-schemes/)
 
