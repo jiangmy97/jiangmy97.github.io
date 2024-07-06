@@ -1,4 +1,4 @@
-# JIANG Mingyuan's group is looking for PhD students and Research Assistants (RAs)
+# Openings for PhDs and RAs (MY Jiang's Group)
 As a member of the [PolyU Research Centre for Electric Vehicles (RCEV)](https://www.polyu.edu.hk/rcev/), **Dr JIANG Mingyuan** is looking for **PhD Students and Research Assistants**. If you are interested or have interesting ideas, please send your CV to [m.y.jiang [AT] polyu.edu.hk](mailto:m.y.jiang@polyu.edu.hk). Thanks!
 
 ## About PolyU RCEV
