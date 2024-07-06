@@ -2,7 +2,7 @@
 作为[香港理工大学电动车辆研究中心(RCEV)](https://www.polyu.edu.hk/rcev/)的成员，**江明远博士**诚招**博士生（PhD）及研究助理（RA）**。如果您有兴趣或有有趣的想法，请将简历发送至[m.y.jiang [AT] polyu.edu.hk](mailto:m.y.jiang@polyu.edu.hk)。谢谢!
 
 ## 关于香港理工大学电动车研究中心
-[香港理工大学电动车研究中心(RCEV)](https://www.polyu.edu.hk/rcev/)是一个新成立的校级研究中心，于2024年2月26日成立。研究中心的主任是 **[陈清泉院士](https://www.polyu.edu.hk/eee/people/distinguished-honorary-emeritus-adjunct-and-visiting-staff/prof-chan-ching-chuen/)**，他是**香港第一位中国工程院院士,也是公认的"亚洲电动车之父"**。副主任是 **[邹国棠教授](https://www.polyu.edu.hk/eee/people/academic-staff-and-teaching-staff/prof-chau-kwok-tong/)**。RCEV旨在解决现代电动汽车的技术挑战，并提供重大技术解决方案。通过将电动车技术与能源、信息、人文和政策相结合，中心遵循人机协同、信息化、物理融合的理念。中心的主要目标之一是将研发技术转化到产业界，特别是在大湾区，以利用电动车面临的丰富机遇。这项技术转化也将在支持实现香港等地区的碳中及国家绿色生态目标中发挥关键作用。
+[香港理工大学电动车研究中心（RCEV）](https://www.polyu.edu.hk/rcev/)是一个新成立的校级研究中心，于2024年2月26日成立。研究中心的主任是 **[陈清泉院士](https://www.polyu.edu.hk/eee/people/distinguished-honorary-emeritus-adjunct-and-visiting-staff/prof-chan-ching-chuen/)**，他是**香港第一位中国工程院院士,也是公认的"亚洲电动车之父"**。副主任是 **[邹国棠教授](https://www.polyu.edu.hk/eee/people/academic-staff-and-teaching-staff/prof-chau-kwok-tong/)**。RCEV旨在解决现代电动汽车的技术挑战，并提供重大技术解决方案。通过将电动车技术与能源、信息、人文和政策相结合，中心遵循人机协同、信息化、物理融合的理念。中心的主要目标之一是将研发技术转化到产业界，特别是在大湾区，以利用电动车面临的丰富机遇。这项技术转化也将在支持实现香港等地区的碳中及国家绿色生态目标中发挥关键作用。
 
 ## 奖学金
 香港理工大学目前为研究生提供以下奖学金:
@@ -24,7 +24,7 @@
 
 ## 研究方向
 - 电机
-    - 先进电机设计(如磁通调制电机、高速电机、多端口电机)
+    - 先进电机设计（如磁通调制电机、高速电机、多端口电机）
     - 电机控制
     - 电机驱动
 - 自动驾驶
