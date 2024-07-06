@@ -42,12 +42,11 @@ Dr JIANG is looking for **Research Postgraduates (RPGs), Research Assistants, an
   
 </table>
 
-*To save your time, please check the agenda before contacting me, thank you.*
+*To save your time, please check the agenda before contacting me. Thank you!*
 
 ## Useful links
 
-- [myPolyU](https://my.polyu.edu.hk/)
-- [IEEE Xplore Library- PolyU access](https://ieeexplore-ieee-org.ezproxy.lb.polyu.edu.hk/Xplore/home.jsp)
+- [PolyU RCEV](https://www.polyu.edu.hk/rcev/)
 - [How to get to EMLAB (P006)](https://sites.google.com/view/jiangmy/home/how-to-get-to-p006)
 - *[Private Entry](https://github.com/jiangmy97/PrivateItems)*
 
