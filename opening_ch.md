@@ -5,10 +5,10 @@
 [香港理工大学电动车研究中心（RCEV）](https://www.polyu.edu.hk/rcev/)是一个新成立的校级研究中心，于2024年2月26日成立。研究中心的主任是 **[陈清泉院士](https://www.polyu.edu.hk/eee/people/distinguished-honorary-emeritus-adjunct-and-visiting-staff/prof-chan-ching-chuen/)**，他是**香港第一位中国工程院院士，也是公认的"亚洲电动车之父"**。联合主任是 **[邹国棠教授](https://www.polyu.edu.hk/eee/people/academic-staff-and-teaching-staff/prof-chau-kwok-tong/)**。RCEV旨在解决现代电动汽车的技术挑战，并提供重大技术解决方案。通过将电动车技术与能源、信息、人文和政策相结合，中心遵循人机协同、信息化、物理融合的理念。中心的主要目标之一是将研发技术转化到产业界，特别是在大湾区，以利用电动车面临的丰富机遇。这项技术转化也将在支持实现香港等地区的碳中及国家绿色生态目标中发挥关键作用。
 
 ## 奖学金
-目前可申请香港理工大学以下奖学金:
-- 香港研究资助局博士生研究计划(HKPFS): 每月28,100港元
-- 香港理工大学校长博士生研究计划(PPPFS): 每月27,790港元 
-- 香港理工大学研究生奖学金(PRPgS): 每月18,840港元
+目前可申请以下奖学金:
+- 港府博士奖学金(HKPFS): 每月28,100港元
+- 理大校长博士奖学金(PPPFS): 每月27,790港元 
+- 理大研究生奖学金(PRPgS): 每月18,840港元
 
 详细信息请访问[此页面](https://www.polyu.edu.hk/gs/prospective-students/fellowship-scholarship-schemes/)。
 
