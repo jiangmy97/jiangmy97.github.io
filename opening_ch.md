@@ -13,7 +13,7 @@
 详细信息请访问[此页面](https://www.polyu.edu.hk/gs/prospective-students/fellowship-scholarship-schemes/)。
 
 ## 导师介绍
-江明远，博士生导师，现任香港理工大学电气及电子工程学系助理教授（研究），于2021年和2024年分别获得香港理工大学电气工程硕士、博士学位（博士导师: **[牛双霞教授](https://www.polyu.edu.hk/eee/people/academic-staff-and-teaching-staff/dr-niu-shuang-xia/)**，RCEV副主任）。主要研究方向包括电机设计、优化和控制、电动汽车以及发电技术。近年来在IEEE Transactions on Industrial Electronics、IEEE Transactions on Transportation Electrification、IEEE Journal of Emerging Selected Topics in Power Electronics等国际高水平期刊上发表论文十余篇。
+江明远，博士生导师，现任香港理工大学电机及电子工程学系助理教授（研究），于2021年和2024年分别获得香港理工大学电机工程硕士、博士学位（博士导师: **[牛双霞教授](https://www.polyu.edu.hk/eee/people/academic-staff-and-teaching-staff/dr-niu-shuang-xia/)**，RCEV副主任）。主要研究方向包括电机设计、优化和控制、电动汽车以及发电技术。近年来在IEEE Transactions on Industrial Electronics、IEEE Transactions on Transportation Electrification、IEEE Journal of Emerging Selected Topics in Power Electronics等国际高水平期刊上发表论文十余篇。
 
 [个人主页](https://jiangmy97.github.io/) |
 [CV](https://jiangmy97.github.io/docs/CV_JMY_240531_v2.pdf) |
