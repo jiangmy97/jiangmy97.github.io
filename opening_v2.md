@@ -11,6 +11,7 @@ Applicants could apply for the following fellowships and scholarships:
 - RGC Hong Kong PhD Fellowship Scheme (港府博士奖学金, HKPFS): HKD 28,100/month
 - PolyU Presidential PhD Fellowship Scheme (理大校长博士奖学金, PPPFS): HKD 27,790/month
 <!-- - PolyU Research Postgraduate Scholarship (理大研究生奖学金, PRPgS): HKD 18,840/month -->
+
 Please visit [this page](https://www.polyu.edu.hk/gs/prospective-students/fellowship-scholarship-schemes/) for detailed information.
 
 - RA remuneration (研究助理津贴): Check [here](https://jobs.polyu.edu.hk/research.php?dept=1116&keyword=)
