@@ -1,10 +1,7 @@
 **Greetings! This is the personal page of JIANG Mingyuan.**
 
 ## Openings for PhDs and RAs
-As a member of the [PolyU Research Centre for Electric Vehicles (RCEV)](https://www.polyu.edu.hk/rcev/), Dr JIANG is looking for **PhD Students and Research Assistants**. Please visit [this page](https://jiangmy97.github.io/opening) for detailed information. If you are interested, please send your CV to [m.y.jiang [AT] polyu.edu.hk](mailto:m.y.jiang@polyu.edu.hk). 
-
-作为[香港理工大学电动车辆研究中心（RCEV）](https://www.polyu.edu.hk/rcev/)的成员，江明远博士诚招**博士生（PhD）及研究助理（RA）**。详情请见[此页](https://jiangmy97.github.io/opening_ch)。如果您有兴趣，请将CV发送至[m.y.jiang [AT] polyu.edu.hk](mailto:m.y.jiang@polyu.edu.hk)。
-
+As a member of the [PolyU Research Centre for Electric Vehicles (RCEV)](https://www.polyu.edu.hk/rcev/), Dr JIANG is looking for **PhD Students and Research Assistants**. Please visit [this page](https://jiangmy97.github.io/opening_v2) for detailed information. If you are interested, please send your CV to [m.y.jiang [AT] polyu.edu.hk](mailto:m.y.jiang@polyu.edu.hk). 
 
 ## About me
 [CV](https://jiangmy97.github.io/docs/CV_JMY_240531_v2.pdf) |
