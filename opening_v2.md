@@ -1,4 +1,4 @@
-# Openings for PhDs and RAs (MY Jiang's Group) | 江明远课题组 诚招博士生及研究助理
+# Openings for PhDs and RAs (MY Jiang's Group) <br> 江明远课题组 诚招博士生及研究助理
 As a member of the [PolyU Research Centre for Electric Vehicles (RCEV)](https://www.polyu.edu.hk/rcev/), **Dr JIANG Mingyuan** is looking for **PhD Students and Research Assistants**. If you are interested or have interesting ideas, please send your **CV and academic transcripts** to [m.y.jiang [AT] polyu.edu.hk](mailto:m.y.jiang@polyu.edu.hk). Thanks!
 
 作为[香港理工大学电动车辆研究中心（RCEV）](https://www.polyu.edu.hk/rcev/)的成员，江明远博士**诚招博士生（PhD）及研究助理（RA）**。如果您有兴趣或有有趣的想法，请将**简历及成绩单**发送至[m.y.jiang [AT] polyu.edu.hk](mailto:m.y.jiang@polyu.edu.hk)。谢谢!
