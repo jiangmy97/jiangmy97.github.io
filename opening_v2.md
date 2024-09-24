@@ -1,5 +1,5 @@
 # Openings for PhDs and RAs (MY Jiang's Group) <br> 江明远课题组 诚招博士生及研究助理
-As a member of the [PolyU Research Centre for Electric Vehicles (RCEV)](https://www.polyu.edu.hk/rcev/), **Dr JIANG Mingyuan** is looking for **PhD Students and Research Assistants**. If you are interested or have interesting ideas, please send your **CV and academic transcripts** to [m.y.jiang [AT] polyu.edu.hk](mailto:m.y.jiang@polyu.edu.hk). Thanks!
+As a member of the [PolyU Research Centre for Electric Vehicles (RCEV)](https://www.polyu.edu.hk/rcev/), **Dr Mingyuan JIANG** is looking for **PhD Students and Research Assistants**. If you are interested or have interesting ideas, please send your **CV and academic transcripts** to [m.y.jiang [AT] polyu.edu.hk](mailto:m.y.jiang@polyu.edu.hk). Thanks!
 
 作为[香港理工大学电动车辆研究中心（RCEV）](https://www.polyu.edu.hk/rcev/)的成员，江明远博士**诚招博士生（PhD）及研究助理（RA）**。如果您有兴趣或有有趣的想法，请将**简历及成绩单**发送至[m.y.jiang [AT] polyu.edu.hk](mailto:m.y.jiang@polyu.edu.hk)。谢谢!
 
@@ -16,8 +16,8 @@ Please visit [this page](https://www.polyu.edu.hk/gs/prospective-students/fellow
 
 - RA remuneration (研究助理津贴): Check [here](https://jobs.polyu.edu.hk/research.php?dept=1116&keyword=)
 
-## About Dr JIANG Mingyuan
-**JIANG Mingyuan** receives the B.Eng. degree in electrical engineering and automation from Shanghai Maritime University, Shanghai, China, in 2020. Subsequently, he obtained the M.Sc. and Ph.D. degrees in electrical engineering from The Hong Kong Polytechnic University, Hong Kong, China, in 2021 and 2024, respectively (PhD Supervisor: **[Prof. Shuangxia Niu](https://www.polyu.edu.hk/eee/people/academic-staff-and-teaching-staff/dr-niu-shuang-xia/)**,  Associate Director of RCEV). He is currently a Research Assistant Professor in the Department of Electrical and Electronic Engineering, The Hong Kong Polytechnic University. His primary research focuses on the design, optimization, and control of electric machines, electric vehicles, and power generation.
+## About Dr Mingyuan JIANG 
+**Mingyuan JIANG** receives the B.Eng. degree in electrical engineering and automation from Shanghai Maritime University, Shanghai, China, in 2020. Subsequently, he obtained the M.Sc. and Ph.D. degrees in electrical engineering from The Hong Kong Polytechnic University, Hong Kong, China, in 2021 and 2024, respectively (PhD Supervisor: **[Prof. Shuangxia Niu](https://www.polyu.edu.hk/eee/people/academic-staff-and-teaching-staff/dr-niu-shuang-xia/)**,  Associate Director of RCEV). He is currently a Research Assistant Professor in the Department of Electrical and Electronic Engineering, The Hong Kong Polytechnic University. His primary research focuses on the design, optimization, and control of electric machines, electric vehicles, and power generation.
 
 [Personal Website](https://jiangmy97.github.io/) |
 [CV](https://jiangmy97.github.io/docs/CV_JMY_240531_v2.pdf) |
