@@ -1,4 +1,9 @@
-# Team Member
+[**HOME**](https://jiangmy97.github.io) |
+[**NEWS**](https://jiangmy97.github.io/news/news) |
+[**TEAM**](https://jiangmy97.github.io/team/list) |
+[**OPENING**](https://jiangmy97.github.io/opening)
+
+# Team Members
 
 ## PhD students
 - Zixu DONG (Since 2024)
