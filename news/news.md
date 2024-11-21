@@ -1,3 +1,8 @@
+[**HOME**](https://jiangmy97.github.io) |
+[**NEWS**](https://jiangmy97.github.io/news/news) |
+[**TEAM**](https://jiangmy97.github.io/team/list) |
+[**OPENING**](https://jiangmy97.github.io/opening)
+
 # 2024
 - *8-10 May 2024* - **Attended IEECSC in Shanghai**
 
