@@ -3,7 +3,7 @@
 [**TEAM**](https://jiangmy97.github.io/team/list) |
 [**OPENING**](https://jiangmy97.github.io/opening)
 
-**Greetings! This is the personal page of JIANG Mingyuan.**
+*Greetings! This is the personal page of Dr. JIANG Mingyuan.*
 
 ## About me
 [CV](https://jiangmy97.github.io/docs/CV_JMY_240531_v2.pdf) |
