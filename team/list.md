@@ -6,5 +6,5 @@
 # Team Members
 
 ## PhD students
-- Zixu DONG (Since 2024)
-- Zhang ZHANG (Since 2024)
+- Zixu DONG (Since 2025)
+- Zhang ZHANG (Since 2025)
