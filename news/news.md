@@ -8,5 +8,5 @@
 
   The paper "Novel Radial-Type Permanent Magnet Generators with Mechanical Flux-Weakening Design for VSCAV Control in Wind Power Generation" got the best paper award. Congrats to Zixu!
   
-  <img src="/news/fig/ieecsc.png" width="722.5mm" height="231.213mm">
+  <img src="/news/fig/ieecsc.png" width="529.5mm" height="169.4495mm">
  
