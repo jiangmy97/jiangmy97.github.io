@@ -1,3 +1,8 @@
+[**HOME**](https://jiangmy97.github.io) |
+[**NEWS**](https://jiangmy97.github.io/news/news) |
+[**TEAM**](https://jiangmy97.github.io/team/list) |
+[**OPENING**](https://jiangmy97.github.io/opening)
+
 **Greetings! This is the personal page of JIANG Mingyuan.**
 
 ## About me
@@ -40,9 +45,6 @@
 </table>
 
 *To save your time, please check the agenda before contacting me. Thank you!*
-
-## Openings
-As a member of the [PolyU Research Centre for Electric Vehicles (RCEV)](https://www.polyu.edu.hk/rcev/), Dr JIANG is looking for **PhD Students and Research Assistants**. Please visit [this page](https://jiangmy97.github.io/opening) for detailed information. If you are interested, please send your **CV and academic transcripts** to [m.y.jiang [AT] polyu.edu.hk](mailto:m.y.jiang@polyu.edu.hk). 
 
 ## Useful links
 
