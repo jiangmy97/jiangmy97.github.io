@@ -4,7 +4,9 @@
 [**OPENING**](https://jiangmy97.github.io/opening)
 
 # 2024
-- *09 Dec 2024* - **Invited talk in The 25th Youth Salon of China Electrotechnical Society (CES) at HKUST (GZ)**
+- *09 Dec 2024* - **Invited talk in The 25th Youth Salon of China Electrotechnical Society (中国电工技术学会第二十五期青年沙龙) at HKUST (GZ)**
+
+  Title: Application of high-order harmonics in flux modulation machines (高次谐波在调制电机上的运用)
   
   <img src="/news/fig/ces.png" width="389mm" height="329mm">
   
