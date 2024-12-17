@@ -4,7 +4,11 @@
 [**OPENING**](https://jiangmy97.github.io/opening)
 
 # 2024
-- *8-10 Nov 2024* - **Attended IEECSC in Shanghai**
+- *09 Dec 2024* - **Invited talk in The 25th Youth Salon of China Electrotechnical Society (CES) at HKUST (GZ)**
+  
+  <img src="/news/fig/ces.png" width="389mm" height="329mm">
+  
+- *08-10 Nov 2024* - **Attended IEECSC in Shanghai**
 
   The paper "Novel Radial-Type Permanent Magnet Generators with Mechanical Flux-Weakening Design for VSCAV Control in Wind Power Generation" got the **best paper award**. Congrats to Zixu!
   
