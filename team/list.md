@@ -3,8 +3,6 @@
 [**TEAM**](https://jiangmy97.github.io/team/list) |
 [**OPENING**](https://jiangmy97.github.io/opening)
 
-# Team Members
-
-## PhD students
+# PhD Students
 - Zixu DONG (Since 2025)
 - Zhang ZHANG (Since 2025)
