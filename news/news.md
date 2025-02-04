@@ -9,7 +9,7 @@
   - Present poster
   - Deliver the invited talk: Overview of Permanent Magnet Wind Power Generators
   
-  <img src="/news/fig/intermag2025.png" width="367mm" height="397mm">
+  <img src="/news/fig/Intermag2025.png" width="367mm" height="397mm">
   
 # 2024
 - *09 Dec 2024* - **Invited talk in The 25th Youth Salon of China Electrotechnical Society (中国电工技术学会第二十五期青年沙龙) at HKUST (GZ)**
