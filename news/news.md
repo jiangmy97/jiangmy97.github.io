@@ -4,15 +4,14 @@
 [**OPENING**](https://jiangmy97.github.io/opening)
 
 # 2025
-- *13-17 Jan 2025* - **Attend 2025 Joint MMM-Intermag Conference in New Orleans, LA, USA**
+- *13-17 Jan 2025* - **Invited talk and poster presentation at 2025 Joint MMM-Intermag Conference in New Orleans, LA, USA**
 
-  - Present poster
-  - Deliver the invited talk: Overview of Permanent Magnet Wind Power Generators
+  Title: Overview of Permanent Magnet Wind Power Generators
   
   <img src="/news/fig/Intermag2025.png" width="367mm" height="397mm">
   
 # 2024
-- *09 Dec 2024* - **Invited talk in The 25th Youth Salon of China Electrotechnical Society (中国电工技术学会第二十五期青年沙龙) at HKUST (GZ)**
+- *09 Dec 2024* - **Invited talk at the 25th Youth Salon of China Electrotechnical Society (中国电工技术学会第二十五期青年沙龙) at HKUST (GZ)**
 
   Title: Application of high-order harmonics in flux modulation machines (高次谐波在调制电机上的运用)
   
