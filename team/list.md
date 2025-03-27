@@ -3,6 +3,15 @@
 [**TEAM**](https://jiangmy97.github.io/team/list) |
 [**OPENING**](https://jiangmy97.github.io/opening)
 
-# PhD Students
-- Zixu DONG (Since 2025)
-- Zhang ZHANG (Since 2025)
+# Research Students
+- Zixu DONG (PhD, Since 2025)
+- Zhang ZHANG (PhD, Since 2025)
+
+# MSc Student (Dissertation)
+- Chenyu YANG
+
+# Undergraduate Students (Final year project)
+- C.M. NG, Ivan
+- K.N. LIU
+- K.L. CHU
+- L.S. HO
