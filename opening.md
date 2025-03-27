@@ -1,6 +1,6 @@
 [**HOME**](https://jiangmy97.github.io) |
 [**NEWS**](https://jiangmy97.github.io/news/news) |
-[**TEAM**](https://jiangmy97.github.io/team/list) |
+[**PEOPLE**](https://jiangmy97.github.io/team/list) |
 [**OPENING**](https://jiangmy97.github.io/opening)
 
 # Openings for PhDs and RAs (MY Jiang's Group) <br> 江明远课题组 诚招博士生及研究助理
