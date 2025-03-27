@@ -21,21 +21,15 @@ Please visit [this page](https://www.polyu.edu.hk/gs/prospective-students/fellow
 
 - RA remuneration (研究助理津贴): Check [here](https://jobs.polyu.edu.hk/research.php?dept=1116&keyword=)
 
-## About Dr Mingyuan JIANG 
-**Mingyuan JIANG** receives the B.Eng. degree in electrical engineering and automation from Shanghai Maritime University, Shanghai, China, in 2020. Subsequently, he obtained the M.Sc. and Ph.D. degrees in electrical engineering from The Hong Kong Polytechnic University, Hong Kong, China, in 2021 and 2024, respectively (PhD Supervisor: **[Prof. Shuangxia Niu](https://www.polyu.edu.hk/eee/people/academic-staff-and-teaching-staff/dr-niu-shuang-xia/)**,  Associate Director of RCEV). He is currently a Research Assistant Professor in the Department of Electrical and Electronic Engineering, The Hong Kong Polytechnic University. His primary research focuses on the design, optimization, and control of electric machines, electric vehicles, and power generation.
-
-[Personal Website](https://jiangmy97.github.io/) |
-[CV](https://jiangmy97.github.io/docs/CV_JMY_240531_v2.pdf) |
-[PolyU Page](https://www.polyu.edu.hk/eee/people/academic-staff-and-teaching-staff/dr-jian-mingyuan/) |
-[Google Scholar](https://scholar.google.com.hk/citations?hl=en&user=o6vNp3AAAAAJ) |
-[ORCID](https://orcid.org/0000-0001-7805-9772) |
-[ResearchGate](https://www.researchgate.net/profile/Mingyuan-Jiang-3) 
+## About the PI
+**Mingyuan JIANG** receives the B.Eng. degree in electrical engineering and automation from Shanghai Maritime University, Shanghai, China, in 2020. Subsequently, he obtained the M.Sc. and Ph.D. degrees in electrical engineering from The Hong Kong Polytechnic University, Hong Kong, China, in 2021 and 2024, respectively (PhD Supervisor: **[Prof. Shuangxia Niu](https://www.polyu.edu.hk/eee/people/academic-staff-and-teaching-staff/dr-niu-shuang-xia/)**,  Associate Director of RCEV). He is currently a Research Assistant Professor in the Department of Electrical and Electronic Engineering, The Hong Kong Polytechnic University. His primary research focuses on the design, optimization, and control of electric machines, electric vehicles, and power generation. ([See more](https://jiangmy97.github.io))
 
 ## Research Interests
 - Electric Machine
     - Advanced machine design (e.g., flux-modulated machine, high-speed machine, multiport machine)
     - Machine control
     - Machine drives
+    - AI in machine design
 - Autonomous driving
     - SLAM
     - Sensor fusion
