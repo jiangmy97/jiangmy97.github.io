@@ -7,7 +7,7 @@
 
 - *22 Mar 2025* - **Join RCEV 2nd Tea Gathering**
     
-  <img src="/news/fig/rcev2.png" width="250mm" height="163mm">
+  <img src="/news/fig/rcev2.png" width="300mm" height="195mm">
   
 - *14 Mar 2025* - **Reception of National Institute of Clean and Low-Carbon Energy (NICE) delegation**
 - *13 Mar 2025* - **Reception of Vocational Training Council (VTC) delegation**
@@ -24,7 +24,7 @@
   
 - *24 Jan 2025* - **Reception of PReCIT invited Primary and secondary school students' delegation**
   
-  <img src="/news/fig/precit.png" width="260mm" height="397mm">
+  <img src="/news/fig/precit.png" width="260mm" height="195mm">
   
 - *13-17 Jan 2025* - **Invited talk and poster presentation at 2025 Joint MMM-Intermag Conference in New Orleans, LA, USA**
 
@@ -48,14 +48,14 @@
   
 - *27 Nov 2024* - **Reception of Beijing Jiaotong University (北京交通大学) delegation**
   
-  <img src="/news/fig/BJJTU.png" width="300mm" height="140mm">
+  <img src="/news/fig/BJJTU.png" width="400mm" height="190mm">
   
 
 - *11-12 Nov 2024* - **PolyU MSc EE/EV promotion**
 
   Visit and promote PolyU MSc EE/EV at Shanghai University (上海大学), Tongji University (同济大学), University of Shanghai for Science and Technology (上海理工大学), Shanghai Jiao Tong University (上海交通大学), and Shanghai Maritime University (上海海事大学).
   
-  <img src="/news/fig/MScProm.png" width="315mm" height="341mm">
+  <img src="/news/fig/MScProm.png" width="390mm" height="423mm">
   
   
 - *08-10 Nov 2024* - **Attend IEECSC in Shanghai**
@@ -96,5 +96,5 @@
 - *16 Jul 2024* - **Reception of Li Auto (理想汽车) delegation**
 - *06 Jul 2024* - **Join RCEV 1st Tea Gathering**
   
-  <img src="/news/fig/rcev1.png" width="250mm" height="143mm">
+  <img src="/news/fig/rcev1.png" width="300mm" height="172mm">
   
