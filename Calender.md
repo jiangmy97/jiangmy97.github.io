@@ -1,6 +1,5 @@
 <iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=2&ctz=Asia%2FHong_Kong&title=MY%20Jiang's%20Agenda&hl=en&src=bm15amlhbmdAZ21haWwuY29t&src=anU2b3VoajNubDBiZms4anJzM3FwcTJqaHI5bWc0YnJAaW1wb3J0LmNhbGVuZGFyLmdvb2dsZS5jb20&src=ZW4uaG9uZ19rb25nI2hvbGlkYXlAZ3JvdXAudi5jYWxlbmRhci5nb29nbGUuY29t&color=%23039BE5&color=%23F6BF26&color=%230B8043" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
-[Outlook Calender link](https://outlook.office365.com/owa/calendar/e7bcfeede2a544a3865478197f7bbb33@polyu.edu.hk/3292e8631f564e118ecc6fe978e8dfa59922615675634440517/calendar.html)
 
 **Office hours:** 09:30 - 11:00, 13:00 - 17:00, Mon - Fri (Except public holidays, special occasions, and events on the agenda)
 
