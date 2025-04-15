@@ -4,7 +4,12 @@
 [**OPENING**](https://jiangmy97.github.io/opening)
 
 # 2025
-
+- *07-13 Apr 2025* - **Attend the 50th International Exhibition of Inventions Geneva and won Gold Medals with Congratulations of the Jury**
+  
+  Our invention, "Highly Efficient Brushless Dual-rotor Contra-rotating Wind Power Generation System," has won the **Gold Medals with Congratulations of the Jury**!
+    
+  <img src="/news/fig/Geneva2025.png" width="387mm" height="670mm">
+  
 - *22 Mar 2025* - **Join RCEV 2nd Tea Gathering**
     
   <img src="/news/fig/rcev2.png" width="300mm" height="195mm">
@@ -93,6 +98,9 @@
   <img src="/news/fig/tongji.png" width="300mm" height="251mm">
   
 - *18 Jul 2024* - **Visit to AscenPower and HKUST(GZ)**
+  
+  <img src="/news/fig/AscenPower.png" width="300mm" height="152mm">
+  
 - *16 Jul 2024* - **Reception of Li Auto (理想汽车) delegation**
 - *06 Jul 2024* - **Join RCEV 1st Tea Gathering**
   
