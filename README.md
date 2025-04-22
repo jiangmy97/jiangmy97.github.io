@@ -49,7 +49,6 @@
 ## Useful links
 
 - [PolyU RCEV](https://www.polyu.edu.hk/rcev/)
-- [How to get to EMLAB (P006)](https://sites.google.com/view/jiangmy/home/how-to-get-to-p006)
 - *[Private Entry](https://github.com/jiangmy97/PrivateItems)*
 
 
