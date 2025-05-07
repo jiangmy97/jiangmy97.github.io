@@ -4,8 +4,9 @@
 [**OPENING**](https://jiangmy97.github.io/opening)
 
 ## Research Students
-- Zixu DONG (PhD Student, Since 2025)
-- Zhang ZHANG (PhD Student, Since 2025)
+- Zixu DONG (PhD Student, Since May 2025)
+- Zhang ZHANG (PhD Student, Since Sep 2025)
+- Zhouyang ZHANG (MPhil Student, Since Sep 2025)
 
 ## MSc Student (Dissertation)
 - Chenyu YANG
