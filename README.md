@@ -10,7 +10,8 @@
 [PolyU Page](https://www.polyu.edu.hk/eee/people/academic-staff-and-teaching-staff/dr-jian-mingyuan/) |
 [Google Scholar](https://scholar.google.com.hk/citations?hl=en&user=o6vNp3AAAAAJ) |
 [ORCID](https://orcid.org/0000-0001-7805-9772) |
-[ResearchGate](https://www.researchgate.net/profile/Mingyuan-Jiang-3) 
+[ResearchGate](https://www.researchgate.net/profile/Mingyuan-Jiang-3) |
+[LinkedIn](https://www.linkedin.com/in/mingyuan-jiang-25b034165/)
 
 
 **JIANG Mingyuan** receives the B.Eng. degree in electrical engineering and automation from Shanghai Maritime University, Shanghai, China, in 2020. Subsequently, he obtained the M.Sc. and Ph.D. degrees in electrical engineering from The Hong Kong Polytechnic University, Hong Kong, China, in 2021 and 2024, respectively. He is currently a Research Assistant Professor in the Department of Electrical and Electronic Engineering, The Hong Kong Polytechnic University. His primary research focuses on the design, optimization, and control of electric machines, electric vehicles, and power generation.
