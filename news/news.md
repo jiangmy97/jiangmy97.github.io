@@ -4,6 +4,12 @@
 [**OPENING**](https://jiangmy97.github.io/opening)
 
 # 2025
+- *04-17 Jun 2025* - **Attend "Belt and Road Advanced Programme in Power and Energy 2025"**
+  
+  Visited State Grid of China Technology College (Jinan), Xi'an Jiaotong University, and The Hongkong Electric Company, Limited. [(Link)](https://www.polyu.edu.hk/en/media/media-releases/2025/0618_belt-and-road-advanced-programme-in-power-and-energy-2025-successfully-completed/)
+    
+  <img src="/news/fig/BnR.png" width="361mm" height="429mm">
+  
 - *07-13 Apr 2025* - **Attend the 50th International Exhibition of Inventions Geneva and won Gold Medals with Congratulations of the Jury**
   
   Our invention, "Highly Efficient Brushless Dual-rotor Contra-rotating Wind Power Generation System," has won the **Gold Medals with Congratulations of the Jury**!
