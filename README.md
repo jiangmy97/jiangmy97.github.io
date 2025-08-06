@@ -14,7 +14,8 @@
 [LinkedIn](https://www.linkedin.com/in/mingyuan-jiang-25b034165/)
 
 
-**JIANG Mingyuan** receives the B.Eng. degree in electrical engineering and automation from Shanghai Maritime University, Shanghai, China, in 2020. Subsequently, he obtained the M.Sc. and Ph.D. degrees in electrical engineering from The Hong Kong Polytechnic University, Hong Kong, China, in 2021 and 2024, respectively. He is currently a Research Assistant Professor in the Department of Electrical and Electronic Engineering, The Hong Kong Polytechnic University. His primary research focuses on the design, optimization, and control of electric machines, electric vehicles, and power generation.
+**Mingyuan JIANG** is currently a Research Assistant Professor in the Department of Electrical and Electronic Engineering and a member of the Research Centre for Electric Vehicles (RCEV) at The Hong Kong Polytechnic University. He received his B.Eng. degree in Electrical Engineering and Automation from Shanghai Maritime University, Shanghai, China, in 2020. He subsequently obtained his M.Sc. and Ph.D. degrees in Electrical Engineering from The Hong Kong Polytechnic University, Hong Kong, China, in 2021 and 2024, respectively. Dr. Jiang has been honored with the Gold Medal with Congratulations of the Jury at the 50th International Exhibition of Inventions of Geneva. He has been invited to serve as the tutorial session speaker, session chair, and special session organizer at various international conferences. He is currently the Guest Editor and long-term reviewer for several well-known SCI journals. His primary research interests include the design, optimization, and control of electric machines, transportation electrification, robotics, and power generation systems.
+
 
 ## Contact
 
