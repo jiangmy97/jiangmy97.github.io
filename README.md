@@ -7,7 +7,7 @@
 
 ## About me
 [CV](https://jiangmy97.github.io/docs/CV_JMY.pdf) |
-[PolyU Page](https://www.polyu.edu.hk/eee/people/academic-staff-and-teaching-staff/dr-jian-mingyuan/) |
+[PolyU Page](https://www.polyu.edu.hk/eee/people/academic-staff-and-teaching-staff/dr-jiang-mingyuan/) |
 [Google Scholar](https://scholar.google.com.hk/citations?hl=en&user=o6vNp3AAAAAJ) |
 [ORCID](https://orcid.org/0000-0001-7805-9772) |
 [ResearchGate](https://www.researchgate.net/profile/Mingyuan-Jiang-3) |
