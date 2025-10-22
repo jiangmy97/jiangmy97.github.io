@@ -5,7 +5,7 @@
 
 ## Research Students
 
-  <img src="/team/fig/Group_202509.png" width="252mm" height="205mm">
+  <img src="/team/Group photos/Group_202509.png" width="252mm" height="205mm">
   
   *Group photo in Sep 2025*
 
