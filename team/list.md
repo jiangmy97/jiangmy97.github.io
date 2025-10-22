@@ -12,7 +12,13 @@
 - C.Y. YANG
 
 ## Undergraduate Students (Final year project)
-- C.M. NG, Ivan
-- K.N. LIU
-- K.L. CHU
-- L.S. HO
+- C.M. NG, Ivan (2024/25, EEE)
+- K.N. LIU (2024/25, EEE)
+- K.L. CHU (2024/25, EEE)
+- L.S. HO (2024/25, EEE)
+- P.P. AISHY (2025/26, Inter-departmental FYP, AAE)
+- H.Y. LEI (2025/26, Inter-departmental FYP, EEE)
+- H. Yan, Henry (2025/26, Inter-departmental FYP, EEE)
+- C.N. FUNG, Roy (2025/26, Inter-departmental FYP, EEE)
+- K.H. CHENG (2025/26, EEE)
+- C.W. HO (2025/26, EEE)
