@@ -4,6 +4,12 @@
 [**OPENING**](https://jiangmy97.github.io/opening)
 
 # 2025
+- *17 Oct 2025* - **Attend Kaiyang Global Innovation Competition, Chery Global Innovation Conference 2025**
+  
+	The Project "A High-Order Harmonic Modulation Based Dual-Mechanical-Port Dual-Electrical-Port Machine for Hybrid Electric Vehicles (一种可用于混动汽车的高次谐波调制双机电端口电机)" won the **Best Innovation Proposal Award**.
+    
+  <img src="/news/fig/Chery.png" width="339mm" height="426mm">
+  
 - *04-17 Jun 2025* - **Attend "Belt and Road Advanced Programme in Power and Energy 2025"**
   
   Visited State Grid of China Technology College (Jinan), Xi'an Jiaotong University, and The Hongkong Electric Company, Limited. [(Link)](https://www.polyu.edu.hk/en/media/media-releases/2025/0618_belt-and-road-advanced-programme-in-power-and-energy-2025-successfully-completed/)
@@ -12,7 +18,7 @@
   
 - *07-13 Apr 2025* - **Attend the 50th International Exhibition of Inventions Geneva and won Gold Medals with Congratulations of the Jury**
   
-  Our invention, "Highly Efficient Brushless Dual-rotor Contra-rotating Wind Power Generation System," has won the **Gold Medals with Congratulations of the Jury**!
+  Our invention, "Highly Efficient Brushless Dual-rotor Contra-rotating Wind Power Generation System," has won the **Gold Medals with Congratulations of the Jury**! [(Link)](https://research.polyu.edu.hk/en/prizes/gold-medal-with-congratulations-of-jury-at-the-50th-international-8)
     
   <img src="/news/fig/Geneva2025.png" width="387mm" height="670mm">
   
