@@ -1,60 +1,8 @@
-<!--
-theme: jekyll-theme-minimal
-logo: 
-title: JIANG Mingyuan
-name: JIANG M Y
-description: |
--->
-
-
-# AcademicPages Configuration for JIANG Mingyuan
-
-## Site Settings
-name: "JIANG Mingyuan"
-url: "https://jiangmy97.github.io"
-baseurl: ""
-description: "|"
-
-## Author Profile
+title: "JIANG Mingyuan / Academic Portfolio"
 author:
   name: "JIANG Mingyuan"
-  email: ""
-  bio: ""
-  avatar: ""
-
-## Social Media Links
-social:
-  - icon: "github"
-    link: "https://github.com/jiangmy97"
-
-## Collections
-collections:
-  publications:
-    output: true
-  talks:
-    output: true
-  teaching:
-    output: true
-
-## Default Layouts
-defaults:
-  - scope:
-      path: ""
-      type: "pages"
-    values:
-      layout: "default"
-  - scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "post"
-
-## Jekyll Plugins
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
-  - jekyll-sitemap
-
-## Footer Configuration
-footer:
-  copyright: "© 2026 JIANG Mingyuan. All rights reserved."
+  email: "m.y.jiang@polyu.edu.hk"
+github: "jiangmy97"
+bio: "Research Assistant Professor in Electrical and Electronic Engineering at PolyU"
+location: "Hong Kong"
+employer: "The Hong Kong Polytechnic University"
