@@ -1,0 +1,14 @@
+- text: Home
+  url: /
+- text: Publications
+  url: /publications/
+- text: Talks
+  url: /talks/
+- text: Teaching
+  url: /teaching/
+- text: People
+  url: /people/
+- text: Openings
+  url: /openings/
+- text: News
+  url: /news/
