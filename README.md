@@ -44,7 +44,7 @@ Dr. Jiang has been honored with the Gold Medal with Congratulations of the Jury 
   
   <tr valign="top" style=" border: none;">
     <td style="border: none;"> Agenda: </td>
-    <td style="border: none;"> <a href="https://jiangmy97.github.io/Calender">Click here</a> </td>
+    <td style="border: none;"> <a href="https://jiangmy97.github.io/Agenda">Click here</a> </td>
   </tr>
   
 </table>
