@@ -3,6 +3,44 @@
 [**PEOPLE**](https://jiangmy97.github.io/team/list) |
 [**OPENING**](https://jiangmy97.github.io/opening)
 
+# 2026
+- *28 Jul 2026* - **Attend the 1st council meeting of the International Science and Technology Innovation Service Alliance for New Energy and Intelligent Vehicles (新能源智能汽车国际科技创新服务联盟第一届理事会)**
+
+  Representing PolyU, witnessing its official launch at NEVC Xiamen. [(Link)](https://mp.weixin.qq.com/s?__biz=MzU0NTg3NzY1MQ==&mid=2247506021&idx=1&sn=8e9b7784b6701932a07b58a24d1bdfc9&chksm=fafa425e0e672b79b11e0a1c7174281cb3c472fb03387f3f8f17fa75d349140a1ccfaa003f6e&mpshare=1&srcid=0805uGvw6xwJeWXU6XXTtOel&sharer_shareinfo=6358553cdb13972b250d290e74792470&sharer_shareinfo_first=d2f72dce977e613a54f18eb76a5303eb&from=timeline&scene=2&subscene=2&sessionid=1788751541&clicktime=1788755268&enterid=1788755268&ascene=45&fasttmpl_type=0&fasttmpl_fullversion=8424144-zh_CN-zip&fasttmpl_flag=0&realreporttime=1788755268505#rd)
+    
+  <img src="/news/fig/XMNEVC2026.png" width="430mm" height="197mm">
+
+- *06-08 Jul 2026* - **Attend ICEE 2026 and serve as the Session Chair**
+    
+  <img src="/news/fig/ICEE2026.png" width="451mm" height="340mm">
+  
+- *17 Jun 2026* - **Invited talk at 2026 Hong Kong Automotive Technology Innovation Forum (2026香港汽车科技创新论坛), China Society of Automotive Engineers, Hong Kong, China**
+
+  Title: Development and Application of High-Performance Dual-Independent-Rotor Machine (高性能双独立转子电机的开发与应用)
+  
+  <img src="/news/fig/CSAE2026.png" width="434mm" height="292mm">
+  
+- *08 May 2026* - **Invited talk at School of Automotive Engineering, Harbin Institute of Technology (Weihai)**
+
+  Title: [Design of Multiport Machines (多机电端口电机的设计)](https://auto.hitwh.edu.cn/2026/0421/c5870a212536/page.htm)
+  
+  <img src="/news/fig/HITWH2026.png" width="410mm" height="289mm">
+  
+- *15-17 May 2026* - **Attend IEECSC 2026**
+  
+  - Our paper "Design and Analysis of Flux-Switching Single-Stator Dual-Internal-Rotor PM Machines with Integrated Winding" got the [**Best Paper Award**](https://research.polyu.edu.hk/en/prizes/best-paper-award-ieee-ieecsc-2026/). Congrats to Zhouyang!
+  - Our paper "HSA-OAL: A High-Dimensional Framework for Efficient Motor Design Optimization" got the [**Best Poster Presentation**](https://research.polyu.edu.hk/en/prizes/best-poster-presentation-ieee-ieecsc-2026/). Congrats to Haotian!
+    
+  <img src="/news/fig/IEECSC2026.png" width="495mm" height="295mm">
+
+- *13-17 Apr 2026* - **Attend INTERMAG 2026 and visit University of Sheffield**
+    
+  <img src="/news/fig/Intermag2026.png" width="451mm" height="373mm">
+  
+- *30 Mar - 01 Apr 2026* - **Visit Guangxi University and Guangxi Automobile Group Co., Ltd (Wuling)**
+    
+  <img src="/news/fig/Guangxi.png" width="330mm" height="391mm">
+
 # 2025
 - *17 Oct 2025* - **Attend Kaiyang Global Innovation Competition, Chery Global Innovation Conference 2025**
   
@@ -77,7 +115,7 @@
   
 - *08-10 Nov 2024* - **Attend IEECSC in Shanghai**
 
-  The paper "Novel Radial-Type Permanent Magnet Generators with Mechanical Flux-Weakening Design for VSCAV Control in Wind Power Generation" got the **best paper award**. Congrats to Zixu!
+  The paper "Novel Radial-Type Permanent Magnet Generators with Mechanical Flux-Weakening Design for VSCAV Control in Wind Power Generation" got the **Best Paper Award**. Congrats to Zixu!
   
   <img src="/news/fig/ieecsc.png" width="400mm" height="400mm">
 
