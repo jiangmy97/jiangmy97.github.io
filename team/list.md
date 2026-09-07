@@ -3,7 +3,7 @@
 [**PEOPLE**](https://jiangmy97.github.io/team/list) |
 [**OPENING**](https://jiangmy97.github.io/opening)
 
-## Research Students
+# Current Member
 
   <img src="/team/Group photos/Group_202509.png" width="252mm" height="205mm">
   
@@ -13,10 +13,10 @@
 - [Zhang ZHANG](https://www.researchgate.net/profile/Zhang-Zhang-242) (PhD Student, 2025 - Pre)
 - Zhouyang ZHANG (MPhil Student, 2025 - Pre)
 
-## MSc Student (Dissertation)
-- C.Y. YANG
+# Alumni
+- C.Y. YANG (MSc, 2024-2026)
 
-## Undergraduate Students (Final year project)
+# Undergraduate Students (Final year project)
 - C.M. NG, Ivan (2024/25, EEE)
 - K.N. LIU (2024/25, EEE)
 - K.L. CHU (2024/25, EEE)
@@ -27,3 +27,7 @@
 - C.N. FUNG, Roy (2025/26, Inter-departmental FYP, EEE)
 - K.H. CHENG (2025/26, EEE)
 - C.W. HO (2025/26, EEE)
+- H.Y. KWOK (2025/26, EEE)
+- C.K. CHAN (2026/27, EEE)
+- T.Y. CHAN (2026/27, EEE)
+- Y.C. LIN (2026/27, EEE)
