@@ -5,7 +5,7 @@
 
 # Current Member
 
-  <img src="/team/Group photos/Group_202609.png" width="252mm" height="189mm">
+  <img src="/team/Group photos/Group_202609.png" width="400mm" height="300mm">
   
   *Group photo in Sep 2026* [(History)](https://github.com/jiangmy97/jiangmy97.github.io/tree/main/team/Group%20photos)
 
@@ -14,7 +14,7 @@
 - Zhouyang ZHANG (MPhil Student, 2025 - Pre)
 - Haotian WU (MSc Student, 2026 - Pre)
 
-# Alumni
+# Alumnus
 - C.Y. YANG (MSc, 2024-2026)
 
 
