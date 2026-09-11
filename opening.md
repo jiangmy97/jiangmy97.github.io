@@ -9,7 +9,7 @@ As a member of the [PolyU Research Centre for Electric Vehicles (RCEV)](https://
 If you are interested in joining the team or have innovative research ideas to explore, please send the following materials to [m.y.jiang [AT] polyu.edu.hk](mailto:m.y.jiang@polyu.edu.hk):
  - Your CV
  - Academic transcripts (starting from your undergraduate degree)
- - Published or submitted papers
+ - Published or submitted papers (for PhD applicants)
 
 ***Please note:** Incomplete applications missing any of the items above will not be processed. Dr. Jiang carefully reviews every complete application and will contact you directly via email if your profile is a good fit. If you do not receive a response within two weeks, please assume that we are unable to move forward with your application at this time.*
 
