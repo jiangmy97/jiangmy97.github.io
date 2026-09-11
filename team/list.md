@@ -7,7 +7,7 @@
 
   <img src="/team/Group photos/Group_202609.png" width="252mm" height="189mm">
   
-  *Group photo in Sep 2026* ((History)[https://github.com/jiangmy97/jiangmy97.github.io/tree/main/team/Group%20photos])
+  *Group photo in Sep 2026* [(History)](https://github.com/jiangmy97/jiangmy97.github.io/tree/main/team/Group%20photos)
 
 - [Zixu DONG](https://www.researchgate.net/profile/Zixu-Dong-2) (PhD Student, 2025 - Pre)
 - [Zhang ZHANG](https://www.researchgate.net/profile/Zhang-Zhang-242) (PhD Student, 2025 - Pre)
