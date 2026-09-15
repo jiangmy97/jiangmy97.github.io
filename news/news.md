@@ -10,9 +10,19 @@
     
   <img src="/news/fig/XMNEVC2026.png" width="430mm" height="197mm">
 
-- *06-08 Jul 2026* - **Attend ICEE 2026 and serve as the Session Chair**
+- *06-08 Jul 2026* - **Attend ICEE 2026 and serve as the Session Chair at Seoul**
     
   <img src="/news/fig/ICEE2026.png" width="451mm" height="340mm">
+
+- *Apr-Jul 2026* - **Public reception work**
+  - PolyU Explore EEE (for JUPAS applicants)
+  - [SKH Leung Kwai Yee Secondary School](https://www.polyu.edu.hk/rcev/news-and-events/news/2026/visit-of-students-from-skh-leung-kwai-yee-secondary-school/)
+  - SKH Chan Young Secondary School
+  - [STFA Cheng Yu Tung Secondary School](https://www.polyu.edu.hk/rcev/news-and-events/news/2026/visit-of-students-from-stfa-cheng-yu-tung-secondary-school/)
+  - [Nantong Delegation](https://www.polyu.edu.hk/rcev/news-and-events/news/2026/visit-of-nantong-delegation/)
+  - [CCC Ming Kei College](https://www.polyu.edu.hk/rcev/news-and-events/news/2026/visit-of-students-from-ccc-ming-kei-college/)
+  - [China Southern Power Grid Co., Ltd.](https://www.polyu.edu.hk/rcev/news-and-events/news/2026/visit-of-china-southern-power-grid/)
+  - [PolyU EEE Alumni Association](https://www.polyu.edu.hk/rcev/news-and-events/news/2026/visitofeeeaa/)
   
 - *17 Jun 2026* - **Invited talk at 2026 Hong Kong Automotive Technology Innovation Forum (2026香港汽车科技创新论坛), China Society of Automotive Engineers, Hong Kong, China**
 
