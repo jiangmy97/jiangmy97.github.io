@@ -13,6 +13,18 @@ If you are interested in joining the team or have innovative research ideas to e
 
 ***Please note:** Incomplete applications missing any of the items above will not be processed. Dr. Jiang carefully reviews every complete application and will contact you directly via email if your profile is a good fit. If you do not receive a response within two weeks, please assume that we are unable to move forward with your application at this time.*
 
+## Research Interests
+- Electric Machine
+    - Advanced machine design (e.g., flux-modulated machine, high-speed machine, multiport machine)
+    - Machine control
+    - Machine drives (power electronics)
+    - AI in machine design
+- Robotics
+    - Actuator design
+    - Robotic control (actuator, vision, etc.)
+- Transportation electrification
+- Green power generation
+  
 ## Requirements
 - The applicant must meet **ALL** of the following requirements:
   - [Basic admission requirements for PolyU RPGs](https://www.polyu.edu.hk/study/pg/research-postgraduate/admission-requirements-rpg):
@@ -40,25 +52,6 @@ Please visit [this page](https://www.polyu.edu.hk/gs/prospective-students/fellow
 Please check [here](https://jiangmy97.github.io) to learn more about PI Dr Mingyuan JIANG.
 
 [PolyU Research Centre for Electric Vehicles (RCEV)](https://www.polyu.edu.hk/rcev/) is a new university-level research centre which was launched on 26 Feb 2024. The Director of the Research Centre is **[Prof. C. C. Chan](https://www.polyu.edu.hk/eee/people/academic-staff-and-teaching-staff/prof-chan-ching-chuen/)**, a Distinguished Chair Professor in the Department of Electrical and Electronic Engineering (EEE), who is **the first Academician of CAE (中国工程院院士) in Hong Kong**, and also a renowned expert in the field and widely recognised as the “Father of Asian electric vehicles”. The Co-Director is **[Prof. K. T. Chau](https://www.polyu.edu.hk/eee/people/academic-staff-and-teaching-staff/prof-chau-kwok-tong/)**, a Chair Professor in EEE. RCEV aims to address the technical challenges of modern electric vehicles (EVs) and provide significant technological solutions. By integrating EV technology with energy, information, humanity, and policy, the Centre follows the philosophy of integrating the human, cyber, and physical worlds. One of the Centre's primary goals is to transfer the developed technologies to industries, particularly within the Greater Bay Area, enabling them to capitalise on the abundant opportunities presented by EVs globally. This technology transfer will also play a vital role in supporting the realisation of carbon neutrality in various countries and cities, including Hong Kong.
-
-## Research Interests
-- Electric Machine
-    - Advanced machine design (e.g., flux-modulated machine, high-speed machine, multiport machine)
-    - Machine control
-    - Machine drives
-    - AI in machine design
-  
-<!--
-- Autonomous driving
-    - SLAM
-    - Sensor fusion
-  
-- Hydrogen fuel and fuel cell
-    - Hydrogen internal combustion engine
-    - Hydrogen fuel cell, Balance of plant
--->
-
-
 
 ## Useful Information
 - [PolyU PhD information](https://www.polyu.edu.hk/study/pg/research-postgraduate)
