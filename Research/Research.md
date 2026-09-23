@@ -88,8 +88,6 @@ We explore advanced electrical machines for **renewable energy conversion**, wit
 - *Novel Superconducting Systems for Outer Space Exploration: From Materials, Modeling to Applications*,  
 **NSFC/RGC Joint Research Scheme 2025/26** (N_PolyU590/25) · Jan 2026 – Dec 2029
 
----
-
 # Awards
 
 - **Gold Medal with Congratulations of the Jury**,  
