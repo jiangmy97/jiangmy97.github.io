@@ -21,19 +21,6 @@ We investigate **advanced electrical machines**, with particular interests in **
 
 <img src="/Research/assets/DRM.png" width="241mm" height="108mm">
 
-
-## Robotics
-
-> *Compact and intelligent robotic actuation*
-
-We develop **compact and highly integrated actuators** for robotic systems, with particular interest in novel machine topologies and multi-degree-of-freedom actuation. Our research also explores intelligent actuator control toward more integrated robotic platforms.
-
-`Actuator Design` · `Multi-DOF Actuation` · `Robotic Control`
-
-<img src="/Research/assets/RobActu.png" width="238mm" height="158mm">
-
-
-
 ## Transportation Electrification
 
 > *Advanced machines and integrated electric propulsion*
@@ -53,8 +40,17 @@ We explore advanced electrical machines for **renewable energy conversion**, wit
 
 `Wind Power` · `Wave Energy` · `Contra-Rotating Generators`
 
-<img src="/Research/assets/CRWG.gif" width="220mm" height="124mm">
+<img src="/Research/assets/CRWG.gif" width="225mm" height="180mm">
 
+## Robotics
+
+> *Compact and intelligent robotic actuation*
+
+We develop **compact and highly integrated actuators** for robotic systems, with particular interest in novel machine topologies and multi-degree-of-freedom actuation. Our research also explores intelligent actuator control toward more integrated robotic platforms.
+
+`Actuator Design` · `Multi-DOF Actuation` · `Robotic Control`
+
+<img src="/Research/assets/RobActu.png" width="238mm" height="158mm">
 
 # Funded Projects
 
@@ -91,19 +87,19 @@ We explore advanced electrical machines for **renewable energy conversion**, wit
 # Awards
 
 - **Gold Medal with Congratulations of the Jury**,  
-*50th International Exhibition of Inventions Geneva* · [2025](news/news.md#04-17-jun-2025-attend-belt-and-road-advanced-programme-in-power-and-energy-2025)
+*50th International Exhibition of Inventions Geneva* · [2025](https://jiangmy97.github.io/news/news#07-13-apr-2025---attend-the-50th-international-exhibition-of-inventions-geneva-and-won-gold-medals-with-congratulations-of-the-jury)
  
-Invention: *Highly Efficient Brushless Dual-Rotor Contra-Rotating Wind Power Generation System* 
+    Invention: *Highly Efficient Brushless Dual-Rotor Contra-Rotating Wind Power Generation System* 
 
 - **Best Innovation Proposal Award**,  
-*Kaiyang Global Innovation Competition, Chery Global Innovation Conference* · [2025](news/news.md#17-oct-2025-attend-kaiyang-global-innovation-competition-chery-global-innovation-conference-2025)
+*Kaiyang Global Innovation Competition, Chery Global Innovation Conference* · [2025](https://jiangmy97.github.io/news/news#17-oct-2025---attend-kaiyang-global-innovation-competition-chery-global-innovation-conference-2025)
 
 
 - **Best Paper Award**,  
-*IEEE International Conference on Electrical Energy Conversion Systems and Control (IEECSC)* · [2024](news/news.md#08-10-nov-2024-attend-ieecsc-in-shanghai) & [2026](news/news.md#15-17-may-2026-attend-ieecsc-2026)
+*IEEE International Conference on Electrical Energy Conversion Systems and Control (IEECSC)* · [2024](https://jiangmy97.github.io/news/news#08-10-nov-2024---attend-ieecsc-in-shanghai) & [2026](https://jiangmy97.github.io/news/news#15-17-may-2026---attend-ieecsc-2026)
 
 - **Best Poster Presentation**,  
-*IEEE International Conference on Electrical Energy Conversion Systems and Control (IEECSC)* · [2026](news/news.md#15-17-may-2026-attend-ieecsc-2026)
+*IEEE International Conference on Electrical Energy Conversion Systems and Control (IEECSC)* · [2026](https://jiangmy97.github.io/news/news#15-17-may-2026---attend-ieecsc-2026)
 
 
 
