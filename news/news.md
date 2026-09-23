@@ -54,9 +54,9 @@
 
 # 2025
 ### *17 Oct 2025* - **Attend Kaiyang Global Innovation Competition, Chery Global Innovation Conference 2025**
-  
-	The Project "A High-Order Harmonic Modulation Based Dual-Mechanical-Port Dual-Electrical-Port Machine for Hybrid Electric Vehicles (一种可用于混动汽车的高次谐波调制双机电端口电机)" won the **Best Innovation Proposal Award**.
-    
+
+The Project "A High-Order Harmonic Modulation Based Dual-Mechanical-Port Dual-Electrical-Port Machine for Hybrid Electric Vehicles (一种可用于混动汽车的高次谐波调制双机电端口电机)" won the **Best Innovation Proposal Award**. [(Link)](https://www.polyu.edu.hk/rcev/research/rewards/2025/kaiyang-global-innovation-competition/)
+
   <img src="/news/fig/Chery.png" width="339mm" height="426mm">
   
 ### *04-17 Jun 2025* - **Attend "Belt and Road Advanced Programme in Power and Energy 2025"**
