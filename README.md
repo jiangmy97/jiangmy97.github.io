@@ -6,7 +6,7 @@
 
 *Greetings! This is the personal page of Dr. JIANG Mingyuan.*
 
-## About me
+## About PI
 [PolyU Page](https://www.polyu.edu.hk/eee/people/academic-staff-and-teaching-staff/dr-jiang-mingyuan/) |
 [Google Scholar](https://scholar.google.com.hk/citations?hl=en&user=o6vNp3AAAAAJ) |
 [ORCID](https://orcid.org/0000-0001-7805-9772) |

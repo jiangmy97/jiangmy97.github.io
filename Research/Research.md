@@ -19,7 +19,7 @@ We investigate **advanced electrical machines**, with particular interests in **
 
 `Advanced Machine Design` · `Machine Optimization` · `Machine Control` · `AI in Machine Design`
 
-<img src="/Research/assets/DRM.png" width="241mm" height="108mm">
+<img src="/Research/assets/DRM.png" width="800mm" height="359mm">
 
 ## Transportation Electrification
 
@@ -29,7 +29,7 @@ We investigate advanced electrical machines and integrated propulsion systems fo
 
 `Electric & Hybrid Vehicles` · `Marine Propulsion` · `Aviation Electrification`
 
-<img src="/Research/assets/E-CVT.gif" width="220mm" height="124mm">
+<img src="/Research/assets/E-CVT.gif" width="800mm" height="451mm">
 
 
 ## Green Power Generation
@@ -40,7 +40,7 @@ We explore advanced electrical machines for **renewable energy conversion**, wit
 
 `Wind Power` · `Wave Energy` · `Contra-Rotating Generators`
 
-<img src="/Research/assets/CRWG.gif" width="225mm" height="180mm">
+<img src="/Research/assets/CRWG.gif" width="800mm" height="640mm">
 
 ## Robotics
 
@@ -50,55 +50,55 @@ We develop **compact and highly integrated actuators** for robotic systems, with
 
 `Actuator Design` · `Multi-DOF Actuation` · `Robotic Control`
 
-<img src="/Research/assets/RobActu.png" width="238mm" height="158mm">
+<img src="/Research/assets/RobActu.png" width="800mm" height="531mm">
 
 # Funded Projects
 
 ## As PI
 
-- *Development of the High-Order Harmonic Modulation Based Multiport Machine Systems*,  
+- *Development of the High-Order Harmonic Modulation Based Multiport Machine Systems*
 **PolyU Start-up Fund** (P0052647) · Aug 2024 – May 2027
 
-- *Development of Compact Drum-Coil Integrated Winding Based Multi-Port Machines for Electric Propulsion and Robotic Systems*,  
+- *Development of Compact Drum-Coil Integrated Winding Based Multi-Port Machines for Electric Propulsion and Robotic Systems*  
 **PolyU EEE Seed Funding Scheme** (P0056361) · Jun 2025 – May 2026
 
-- *AI-Based Sensorless Control for Dual-Mechanical-Port Machines*,  
+- *AI-Based Sensorless Control for Dual-Mechanical-Port Machines*  
 **PolyU EEE Seed Funding Scheme** (P0060939) · Mar 2026 – Dec 2026
 
-- *Axial-Flux Dual-Rotor Humanoid Robot Leg Joint Motor*,  
+- *Axial-Flux Dual-Rotor Humanoid Robot Leg Joint Motor* 
 **Innovation and Technology Fund** (ITS/022/26FX) · Jan 2027 – Dec 2029
 
 
 ## As Co-I
 
-- *Development of Fault Self-Recovery Axial Direct-Drive Hub Motor for AGV*,  
+- *Development of Fault Self-Recovery Axial Direct-Drive Hub Motor for AGV*  
 **Innovation and Technology Fund** (ITP/043/24AP) · Dec 2024 – Dec 2026
 
-- *Development of Next-Generation Fast Wireless Power Transfer for Energy Internet*,  
+- *Development of Next-Generation Fast Wireless Power Transfer for Energy Internet*  
 **Innovation and Technology Fund** (PRP/092/24FX) · Oct 2025 – Sep 2028
 
-- *A Hybrid Mechanical-Thermal Testing System towards an International Research Hub and FCE ACT (Advanced Construction Technology) Lab*,  
+- *A Hybrid Mechanical-Thermal Testing System towards an International Research Hub and FCE ACT (Advanced Construction Technology) Lab*  
 **PolyU FCE Large Equipment / Interdisciplinary Research Laboratory Fund** (P0056342) · Jun 2025 – May 2027
 
 
-- *Novel Superconducting Systems for Outer Space Exploration: From Materials, Modeling to Applications*,  
+- *Novel Superconducting Systems for Outer Space Exploration: From Materials, Modeling to Applications*  
 **NSFC/RGC Joint Research Scheme 2025/26** (N_PolyU590/25) · Jan 2026 – Dec 2029
 
 # Awards
 
-- **Gold Medal with Congratulations of the Jury**,  
+- **Gold Medal with Congratulations of the Jury**  
 *50th International Exhibition of Inventions Geneva* · [2025](https://jiangmy97.github.io/news/news#07-13-apr-2025---attend-the-50th-international-exhibition-of-inventions-geneva-and-won-gold-medals-with-congratulations-of-the-jury)
  
     Invention: *Highly Efficient Brushless Dual-Rotor Contra-Rotating Wind Power Generation System* 
 
-- **Best Innovation Proposal Award**,  
+- **Best Innovation Proposal Award**  
 *Kaiyang Global Innovation Competition, Chery Global Innovation Conference* · [2025](https://jiangmy97.github.io/news/news#17-oct-2025---attend-kaiyang-global-innovation-competition-chery-global-innovation-conference-2025)
 
 
-- **Best Paper Award**,  
+- **Best Paper Award**  
 *IEEE International Conference on Electrical Energy Conversion Systems and Control (IEECSC)* · [2024](https://jiangmy97.github.io/news/news#08-10-nov-2024---attend-ieecsc-in-shanghai) & [2026](https://jiangmy97.github.io/news/news#15-17-may-2026---attend-ieecsc-2026)
 
-- **Best Poster Presentation**,  
+- **Best Poster Presentation**  
 *IEEE International Conference on Electrical Energy Conversion Systems and Control (IEECSC)* · [2026](https://jiangmy97.github.io/news/news#15-17-may-2026---attend-ieecsc-2026)
 
 
