@@ -13,17 +13,13 @@ Our research focuses on **advanced electrical machines and electromechanical sys
 
 ## Electric Machines
 
-> *Advanced machine design, optimization, and control*
-
 We investigate **advanced electrical machines**, with particular interests in **multiport machines, flux-modulation machines, machine control and drives, and AI-assisted machine design**. Our research aims to achieve high torque and power density, flexible energy conversion, and highly integrated electromechanical systems.
 
 `Advanced Machine Design` · `Machine Optimization` · `Machine Control` · `AI in Machine Design`
 
-<img src="/Research/assets/DRM.png" width="800mm" height="359mm">
+<img src="/Research/assets/DRM.png" width="800mm" height="380mm">
 
 ## Transportation Electrification
-
-> *Advanced machines and integrated electric propulsion*
 
 We investigate advanced electrical machines and integrated propulsion systems for **electric and hybrid transportation**, including automotive, marine, and aviation applications. Multiport machine technologies are explored for flexible speed, torque, and power-flow regulation in compact propulsion systems.
 
@@ -34,8 +30,6 @@ We investigate advanced electrical machines and integrated propulsion systems fo
 
 ## Green Power Generation
 
-> *Advanced machines for renewable energy conversion*
-
 We explore advanced electrical machines for **renewable energy conversion**, with particular interest in **contra-rotating and multiport generator systems**. Representative applications include wind and wave energy generation, targeting improved power density and system integration.
 
 `Wind Power` · `Wave Energy` · `Contra-Rotating Generators`
@@ -43,8 +37,6 @@ We explore advanced electrical machines for **renewable energy conversion**, wit
 <img src="/Research/assets/CRWG.gif" width="800mm" height="640mm">
 
 ## Robotics
-
-> *Compact and intelligent robotic actuation*
 
 We develop **compact and highly integrated actuators** for robotic systems, with particular interest in novel machine topologies and multi-degree-of-freedom actuation. Our research also explores intelligent actuator control toward more integrated robotic platforms.
 
