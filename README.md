@@ -1,4 +1,5 @@
 [**HOME**](https://jiangmy97.github.io) |
+[**RESEARCH**](https://jiangmy97.github.io/Research/Research) |
 [**NEWS**](https://jiangmy97.github.io/news/news) |
 [**PEOPLE**](https://jiangmy97.github.io/team/list) |
 [**OPENING**](https://jiangmy97.github.io/opening)
