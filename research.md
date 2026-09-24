@@ -1,7 +1,7 @@
 [**HOME**](https://jiangmy97.github.io) |
-[**RESEARCH**](https://jiangmy97.github.io/Research/Research) |
-[**NEWS**](https://jiangmy97.github.io/news/news) |
-[**PEOPLE**](https://jiangmy97.github.io/team/list) |
+[**RESEARCH**](https://jiangmy97.github.io/research) |
+[**NEWS**](https://jiangmy97.github.io/news) |
+[**PEOPLE**](https://jiangmy97.github.io/team) |
 [**OPENING**](https://jiangmy97.github.io/opening)
 
 # Research
@@ -17,7 +17,7 @@ We investigate **advanced electrical machines**, with particular interests in **
 
 `Advanced Machine Design` · `Machine Optimization` · `Machine Control` · `AI in Machine Design`
 
-<img src="/Research/assets/DRM.png" width="800mm" height="380mm">
+<img src="/assets/research/DRM.png" width="800mm" height="380mm">
 
 ## Transportation Electrification
 
@@ -25,7 +25,7 @@ We investigate advanced electrical machines and integrated propulsion systems fo
 
 `Electric & Hybrid Vehicles` · `Marine Propulsion` · `Aviation Electrification`
 
-<img src="/Research/assets/E-CVT.gif" width="800mm" height="451mm">
+<img src="/assets/research/E-CVT.gif" width="800mm" height="451mm">
 
 
 ## Green Power Generation
@@ -34,7 +34,7 @@ We explore advanced electrical machines for **renewable energy conversion**, wit
 
 `Wind Power` · `Wave Energy` · `Contra-Rotating Generators`
 
-<img src="/Research/assets/CRWG.gif" width="800mm" height="640mm">
+<img src="/assets/research/CRWG.gif" width="800mm" height="640mm">
 
 ## Robotics
 
@@ -42,7 +42,7 @@ We develop **compact and highly integrated actuators** for robotic systems, with
 
 `Actuator Design` · `Multi-DOF Actuation` · `Robotic Control`
 
-<img src="/Research/assets/RobActu.png" width="800mm" height="531mm">
+<img src="/assets/research/RobActu.png" width="800mm" height="531mm">
 
 # Funded Projects
 

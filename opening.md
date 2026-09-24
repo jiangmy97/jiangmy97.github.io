@@ -1,7 +1,7 @@
 [**HOME**](https://jiangmy97.github.io) |
-[**RESEARCH**](https://jiangmy97.github.io/Research/Research) |
-[**NEWS**](https://jiangmy97.github.io/news/news) |
-[**PEOPLE**](https://jiangmy97.github.io/team/list) |
+[**RESEARCH**](https://jiangmy97.github.io/research) |
+[**NEWS**](https://jiangmy97.github.io/news) |
+[**PEOPLE**](https://jiangmy97.github.io/team) |
 [**OPENING**](https://jiangmy97.github.io/opening)
 
 # Openings for PhDs and RAs (MY Jiang's Group) 
