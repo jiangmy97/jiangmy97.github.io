@@ -79,19 +79,19 @@ We develop **compact and highly integrated actuators** for robotic systems, with
 # Awards
 
 - **Gold Medal with Congratulations of the Jury**  
-*50th International Exhibition of Inventions Geneva* · [2025](https://jiangmy97.github.io/news/news#07-13-apr-2025---attend-the-50th-international-exhibition-of-inventions-geneva-and-won-gold-medals-with-congratulations-of-the-jury)
+*50th International Exhibition of Inventions Geneva* · [2025](https://jiangmy97.github.io/news#07-13-apr-2025---attend-the-50th-international-exhibition-of-inventions-geneva-and-won-gold-medals-with-congratulations-of-the-jury)
  
     Invention: *Highly Efficient Brushless Dual-Rotor Contra-Rotating Wind Power Generation System* 
 
 - **Best Innovation Proposal Award**  
-*Kaiyang Global Innovation Competition, Chery Global Innovation Conference* · [2025](https://jiangmy97.github.io/news/news#17-oct-2025---attend-kaiyang-global-innovation-competition-chery-global-innovation-conference-2025)
+*Kaiyang Global Innovation Competition, Chery Global Innovation Conference* · [2025](https://jiangmy97.github.io/news#17-oct-2025---attend-kaiyang-global-innovation-competition-chery-global-innovation-conference-2025)
 
 
 - **Best Paper Award**  
-*IEEE International Conference on Electrical Energy Conversion Systems and Control (IEECSC)* · [2024](https://jiangmy97.github.io/news/news#08-10-nov-2024---attend-ieecsc-in-shanghai) & [2026](https://jiangmy97.github.io/news/news#15-17-may-2026---attend-ieecsc-2026)
+*IEEE International Conference on Electrical Energy Conversion Systems and Control (IEECSC)* · [2024](https://jiangmy97.github.io/news#08-10-nov-2024---attend-ieecsc-in-shanghai) & [2026](https://jiangmy97.github.io/news#15-17-may-2026---attend-ieecsc-2026)
 
 - **Best Poster Presentation**  
-*IEEE International Conference on Electrical Energy Conversion Systems and Control (IEECSC)* · [2026](https://jiangmy97.github.io/news/news#15-17-may-2026---attend-ieecsc-2026)
+*IEEE International Conference on Electrical Energy Conversion Systems and Control (IEECSC)* · [2026](https://jiangmy97.github.io/news#15-17-may-2026---attend-ieecsc-2026)
 
 
 
