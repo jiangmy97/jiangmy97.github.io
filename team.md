@@ -7,7 +7,7 @@
 # MY Jiang's Group
 <img src="/assets/team/Group_202609.png" width="400mm" height="300mm">
   
-  *Group photo in Sep 2026* [(History)](https://github.com/jiangmy97/jiangmy97.github.io/tree/main/assets/team/Group%20photos)
+  *Group photo in Sep 2026* [(History)](https://github.com/jiangmy97/jiangmy97.github.io/tree/main/assets/team)
   
 ## PI
   - [Dr Mingyuan JIANG](README.md#about-pi)
