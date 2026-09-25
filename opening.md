@@ -26,6 +26,8 @@ If you are interested in joining the team or have innovative research ideas to e
 - Transportation electrification
 - Green power generation
   
+Please refer [here](https://jiangmy97.github.io/research) for detail.
+
 ## Requirements
 - The applicant must meet **ALL** of the following requirements:
   - [Basic admission requirements for PolyU RPGs](https://www.polyu.edu.hk/study/pg/research-postgraduate/admission-requirements-rpg):

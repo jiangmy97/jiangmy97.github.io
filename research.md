@@ -44,6 +44,9 @@ We develop **compact and highly integrated actuators** for robotic systems, with
 
 <img src="/assets/research/RobActu.png" width="800mm" height="531mm">
 
+# Publications
+Please refer to my [Google Scholar](https://scholar.google.com.hk/citations?hl=en&user=o6vNp3AAAAAJ), [ResearchGate](https://www.researchgate.net/profile/Mingyuan-Jiang-3), and [PolyU Scholar Hub](https://research.polyu.edu.hk/en/persons/mingyuan-jiang/publications/).
+
 # Funded Projects
 
 ## As PI
