@@ -1,9 +1,12 @@
-<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=2&ctz=Asia%2FHong_Kong&title=MY%20Jiang's%20Agenda&hl=en&src=bm15amlhbmdAZ21haWwuY29t&src=anU2b3VoajNubDBiZms4anJzM3FwcTJqaHI5bWc0YnJAaW1wb3J0LmNhbGVuZGFyLmdvb2dsZS5jb20&src=ZW4uaG9uZ19rb25nI2hvbGlkYXlAZ3JvdXAudi5jYWxlbmRhci5nb29nbGUuY29t&color=%23039BE5&color=%23F6BF26&color=%230B8043" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
-
+<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=2&ctz=Asia%2FHong_Kong&hl=en&title=Agenda%20of%20Dr%20MY%20Jiang&showTitle=0&showCalendars=0&src=ZW4uaG9uZ19rb25nI2hvbGlkYXlAZ3JvdXAudi5jYWxlbmRhci5nb29nbGUuY29t&src=MjUwdDRqOXUzcGl1bWM5M2U5YWNzOWc2bzc4aW1tbnVAaW1wb3J0LmNhbGVuZGFyLmdvb2dsZS5jb20&color=%230b8043&color=%238e24aa" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 **Timeslots for consultation:** 14:00 - 17:00, Mon - Fri (Except public holidays, special occasions, and events on the agenda)
 
-**To save your time, please check the agenda before contacting me. Thank you!**
+- 忙碌 = Busy
+- 暂定 = Tentative
+- 离开 = Out of office
+- 空闲 = Free
 
+**To save your time, please check the agenda before contacting me. Thank you!**
 
 [Back](jiangmy97.github.io)
