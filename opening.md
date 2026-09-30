@@ -1,10 +1,10 @@
-[**HOME**](https://jiangmy97.github.io) |
-[**RESEARCH**](https://jiangmy97.github.io/research) |
-[**NEWS**](https://jiangmy97.github.io/news) |
-[**PEOPLE**](https://jiangmy97.github.io/team) |
-[**OPENING**](https://jiangmy97.github.io/opening)
+[**HOME**](README.md) |
+[**RESEARCH**](research.md) |
+[**NEWS**](news.md) |
+[**PEOPLE**](team.md) |
+[**JOIN US**](opening.md)
 
-# Openings for PhDs and RAs (MY Jiang's Group) 
+# Openings of M.Y. Jiang's Group
 As a member of the [PolyU Research Centre for Electric Vehicles (RCEV)](https://www.polyu.edu.hk/rcev/), Dr Mingyuan JIANG is looking for highly motivated **PhD Students and Research Assistants**. 
 
 If you are interested in joining the team or have innovative research ideas to explore, please send the following materials to [m.y.jiang [AT] polyu.edu.hk](mailto:m.y.jiang@polyu.edu.hk):

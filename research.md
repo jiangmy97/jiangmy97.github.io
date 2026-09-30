@@ -1,8 +1,8 @@
-[**HOME**](https://jiangmy97.github.io) |
-[**RESEARCH**](https://jiangmy97.github.io/research) |
-[**NEWS**](https://jiangmy97.github.io/news) |
-[**PEOPLE**](https://jiangmy97.github.io/team) |
-[**OPENING**](https://jiangmy97.github.io/opening)
+[**HOME**](README.md) |
+[**RESEARCH**](research.md) |
+[**NEWS**](news.md) |
+[**PEOPLE**](team.md) |
+[**JOIN US**](opening.md)
 
 # Research
 

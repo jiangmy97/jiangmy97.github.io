@@ -1,10 +1,10 @@
-[**HOME**](https://jiangmy97.github.io) |
-[**RESEARCH**](https://jiangmy97.github.io/research) |
-[**NEWS**](https://jiangmy97.github.io/news) |
-[**PEOPLE**](https://jiangmy97.github.io/team) |
-[**OPENING**](https://jiangmy97.github.io/opening)
+[**HOME**](README.md) |
+[**RESEARCH**](research.md) |
+[**NEWS**](news.md) |
+[**PEOPLE**](team.md) |
+[**JOIN US**](opening.md)
 
-# News
+# News and Updates
 ## 2026
 #### *28 Jul 2026* - **Attend the 1st council meeting of the International Science and Technology Innovation Service Alliance for New Energy and Intelligent Vehicles (新能源智能汽车国际科技创新服务联盟第一届理事会)**
 

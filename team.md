@@ -1,10 +1,10 @@
-[**HOME**](https://jiangmy97.github.io) |
-[**RESEARCH**](https://jiangmy97.github.io/research) |
-[**NEWS**](https://jiangmy97.github.io/news) |
-[**PEOPLE**](https://jiangmy97.github.io/team) |
-[**OPENING**](https://jiangmy97.github.io/opening)
+[**HOME**](README.md) |
+[**RESEARCH**](research.md) |
+[**NEWS**](news.md) |
+[**PEOPLE**](team.md) |
+[**JOIN US**](opening.md)
 
-# MY Jiang's Group
+# M.Y. Jiang's Group
 <img src="/assets/team/Group_202609.png" width="400mm" height="300mm">
   
   *Group photo in Sep 2026* [(History)](https://github.com/jiangmy97/jiangmy97.github.io/tree/main/assets/team)
