@@ -16,7 +16,7 @@
     
   <img src="/assets/news/ICEE2026.png" width="451mm" height="340mm">
 
-#### *Apr-Jul 2026* - **Public reception work**
+#### *Feb-Jul 2026* - **Public reception works**
   - PolyU Explore EEE (for JUPAS applicants)
   - [SKH Leung Kwai Yee Secondary School](https://www.polyu.edu.hk/rcev/news-and-events/news/2026/visit-of-students-from-skh-leung-kwai-yee-secondary-school/)
   - SKH Chan Young Secondary School

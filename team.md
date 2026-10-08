@@ -14,7 +14,7 @@
 
 ## Current Members
   - [Zixu DONG](https://www.researchgate.net/profile/Zixu-Dong-2) (PhD Student, 2025 - Pre)
-  - [Zhang ZHANG](https://www.researchgate.net/profile/Zhang-Zhang-242) (PhD Student, 2025 - Pre)
+  - [Zhang ZHANG](https://www.researchgate.net/profile/Zhang-Zhang-242) (PhD Student, 2025 - Pre, [Personal Page](https://zhangzhang1529242575-oss.github.io/))
   - Zhouyang ZHANG (MPhil Student, 2025 - Pre)
   - Haotian WU (MSc Student, 2026 - Pre)
 
