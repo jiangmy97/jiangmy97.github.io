@@ -68,7 +68,7 @@ If you are interested in joining the team or have innovative research ideas to e
 
 # PDF Applications
 ## Brief Description
-Applications are invited for a research position in an industry-collaborative project *"Axial-Flux Dual-Rotor Humanoid Robot Leg Joint Motor" (ITS/022/26FX)*, focusing on high-performance electric machines for humanoid robot joints. The project aims to develop an innovative axial-flux dual-rotor motor featuring a shared stator and integrated winding system, enabling independently controllable mechanical outputs.
+**RTH Postdoctoral Fellow** applications are invited for a research position in an industry-collaborative project focusing on high-performance electric machines for humanoid robot joints.
 
 ## Research Responsibilities
 - Design and optimization of axial-flux dual-rotor and multi-port electric machines.
