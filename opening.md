@@ -5,7 +5,7 @@
 [**JOIN US**](opening.md)
 
 # Openings of M.Y. Jiang's Group
-As a member of the [PolyU Research Centre for Electric Vehicles (RCEV)](https://www.polyu.edu.hk/rcev/), Dr Mingyuan JIANG is looking for highly motivated **[PhD Students](opening.md#phd-applications), [Postdoctoral Fellows (PDFs)](opening.md#pdf-applications)**, and **[Research Assistants (RAs)](opening.md#RA-applications)**. 
+As a member of the [PolyU Research Centre for Electric Vehicles (RCEV)](https://www.polyu.edu.hk/rcev/), Dr Mingyuan JIANG is looking for highly motivated **[PhD Students](opening.md#phd-applications), [Postdoctoral Fellows (PDFs)](opening.md#pdf-applications)**, and **[Research Assistants (RAs)](opening.md#ra-applications)**. 
 
 ***Please note:*** *Incomplete applications missing any of the items listed in the "Application" part below will not be processed. Dr. Jiang carefully reviews every complete application and will contact you directly via email if your profile is a good fit. If you do not receive a response within two weeks, please assume that we are unable to move forward with your application at this time.*
 
@@ -72,23 +72,29 @@ Applications are invited for a research position in an industry-collaborative pr
 
 ## Research Responsibilities
 - Design and optimization of axial-flux dual-rotor and multi-port electric machines.
-- Electromagnetic analysis and finite element simulation (Ansys Maxwell, JMAG, etc.).
-- Investigation of shared-winding configurations and electromagnetic decoupling.
 - Development of motor drive and control strategies.
 - Prototype development, experimental testing, and performance evaluation.
 - Preparation of technical reports, publications, and project deliverables.
 
 ## Requirements
-- PhD degree in Electrical Engineering, Mechatronics, or a related STEM discipline.
-- Eligibility under the Research Talent Hub for ITF Projects ([RTH-ITF](https://www.itf.gov.hk/en/funding-programmes/nurturing-talent/research-talent-hub/research-talent-hub-for-itf-projects-rth-itf-/index.html)).
-- Background in electric machines, electromagnetic analysis, or motor drives.
+- **PhD degree** in Electrical Engineering, Mechatronics, or a related STEM discipline. Background in electric machines, electromagnetic analysis, or motor drives.
+- **University requirements** according to [RTH-ITF Application Guide](https://www.itf.gov.hk/filemanager/en/content_90/RTH-ITF_Guide_en_Mar_2025.pdf) (local = Hong Kong):
+  - **For local universities**: No additional Top 100 university ranking requirement.
+  - **For non-local universities**: The degree-awarding university should be ranked among the **Top 100 in a relevant STEM subject area** under at least one of the recognized ranking systems:
+    - QS World University Rankings by Subject
+    - Times Higher Education (THE) World University Rankings by Subject
+    - Academic Ranking of World Universities (ARWU / ShanghaiRanking)
+    - U.S. News Best Global Universities Rankings by Subject
+  - Important Notes:
+    - The **Top 100 requirement refers to eligible STEM subject rankings**, rather than necessarily the overall university ranking. Meeting the university ranking requirement does not automatically guarantee RTH-ITF eligibility.
+    - If the university does not meet the Top 100 requirement, alternative academic qualification assessments may be submitted for ITC's consideration, subject to approval.
+    - Final eligibility is subject to verification and approval by ITC.
+- Experience in **axial-flux machines, multi-rotor motors, robotic actuators, or experimental motor testing** would be an advantage.
 - Experience with Ansys Maxwell, JMAG, MATLAB/Simulink, or equivalent tools.
 - Good analytical, communication, and independent research skills.
-- Experience in axial-flux machines, multi-rotor motors, robotic actuators, or experimental motor testing would be an advantage.
 
 ## Remuneration
-
-Competitive remuneration will be offered based on qualifications and experience, subject to PolyU's employment arrangements and RTH-ITF funding requirements.
+ The maximum monthly salary allowance **HKD 35,000** + additional monthly living allowance of **HKD 10,000** for a maximum of **36 months**.
 
 ## Application
 
@@ -102,6 +108,7 @@ Recruitment and appointment are subject to project funding approval, institution
 
 ### Useful Information
 - [Research Talent Hub for ITF projects (RTH-ITF)](https://www.itf.gov.hk/en/funding-programmes/nurturing-talent/research-talent-hub/research-talent-hub-for-itf-projects-rth-itf-/index.html)
+- [RTH-ITF Application Guide](https://www.itf.gov.hk/filemanager/en/content_90/RTH-ITF_Guide_en_Mar_2025.pdf)
 
 # RA Applications
 
