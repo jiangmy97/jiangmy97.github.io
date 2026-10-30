@@ -6,6 +6,9 @@
 
 # News and Updates
 ## 2026
+#### *27 Oct 2026* - **Recruiting RTH-ITF Postdoctoral Fellows**
+We are seeking researchers to join an industry-collaborative project on **high-performance motors for humanoid robot joints**. The position offers a monthly salary allowance of up to HKD 35,000, plus a HKD 10,000 monthly living allowance, for up to 36 months. **[Check here](opening.md#pdf-applications)** for more information. 
+
 #### *28 Jul 2026* - **Attend the 1st council meeting of the International Science and Technology Innovation Service Alliance for New Energy and Intelligent Vehicles (新能源智能汽车国际科技创新服务联盟第一届理事会)**
 
   Representing PolyU, witnessing its official launch at NEVC Xiamen. [(Link)](https://mp.weixin.qq.com/s?__biz=MzU0NTg3NzY1MQ==&mid=2247506021&idx=1&sn=8e9b7784b6701932a07b58a24d1bdfc9&chksm=fafa425e0e672b79b11e0a1c7174281cb3c472fb03387f3f8f17fa75d349140a1ccfaa003f6e&mpshare=1&srcid=0805uGvw6xwJeWXU6XXTtOel&sharer_shareinfo=6358553cdb13972b250d290e74792470&sharer_shareinfo_first=d2f72dce977e613a54f18eb76a5303eb&from=timeline&scene=2&subscene=2&sessionid=1788751541&clicktime=1788755268&enterid=1788755268&ascene=45&fasttmpl_type=0&fasttmpl_fullversion=8424144-zh_CN-zip&fasttmpl_flag=0&realreporttime=1788755268505#rd)
